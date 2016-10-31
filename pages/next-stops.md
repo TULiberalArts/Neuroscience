@@ -4,18 +4,17 @@ permalink: "/next-stops"
 layout: page
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+Students have the opportunity for external internships and hands-on research experience that translates into real-world applications.
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Recent internship placements have included:
 
-## Recently, our alumni have secured coveted positions with the following employers:
+- Abington Hospital in the Neurovascular/Neurology Department
+- Shriners Hospitals Pediatric Research Center, Temple School of Medicine
+- Brain Balance Achievement Center, Glassboro NJ
+- Center for Autism Research, Children’s Hospital of Philadelphia
+- Center for Mind Body Awareness, Washington DC
+- Department of Neurobiology, Drexel College of Medicine
+- Division of Neurology, Children’s Hospital of Philadelphia
+- Department of Biomedical Science, Jefferson University
 
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+Among various and diverse job landings, our alumni go on to forge successful careers as researchers, scientists,  physicians, neuropsychologists, psychologists and therapists.
