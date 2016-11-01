@@ -56,7 +56,8 @@ Applicants must meet the [requirements for admission](http://www.cla.temple.edu/
 
 ## Contact
 
-Admissions and inquiries: 
+Admissions and inquiries:
+
 Christine Engelhardt
 Student Services Specialist | Neuroscience Program
 Temple University
