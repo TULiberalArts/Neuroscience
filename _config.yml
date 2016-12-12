@@ -15,11 +15,13 @@ description: 'Example of what the TU Theme will look like and all the wiz-bang t
 keywords: highered, college, university, philadelphia, Temple, neuroscience
 
 # Address
-address:
+address: 1701 North 13th St 
   building: Weiss Hall
   room:
   street: 1701 North 13th Street
   city: Phialdelphia, PA 19122
+  email: neuroscience@temple.edu
+  phone: 2152043441
 
 # Social Media
 # Put in only the username unless otherwise noted
