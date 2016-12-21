@@ -15,7 +15,7 @@ description: 'Example of what the TU Theme will look like and all the wiz-bang t
 keywords: highered, college, university, philadelphia, Temple, neuroscience
 
 # Address
-address: 
+address:
   building: Weiss Hall
   room:
   street: 1701 North 13th Street
@@ -106,3 +106,13 @@ prose:
               value: faculty
             - name: home
               value: home
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - s3_website.yml
+  - .sass-cache
+  - .travis.yml
+  - .ruby-version
+  - .gitignore
