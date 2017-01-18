@@ -1,7 +1,8 @@
 ---
 title: Graduate
-permalink: "/graduate"
+permalink: /graduate
 layout: page
+published: true
 ---
 
 ## Program Overview
@@ -58,7 +59,6 @@ Applicants must meet the [requirements for admission](http://www.cla.temple.edu/
 
 Admissions and inquiries:
 
-Christine Engelhardt
 Student Services Specialist | Neuroscience Program
 Temple University
 Weiss Hall Room 638
@@ -150,19 +150,18 @@ Have your English proficiency scores (if required) sent to Temple University ele
 
 Admissions and inquiries: 
 
-Christine Engelhardt
 Student Services Specialist | Neuroscience Program
 Temple University
 Weiss Hall Room 638
 1701 N 13th Street Philadelphia, PA 19122
 Phone: 215-204-3441
-Email:christine.engelhardt@temple.edu
+Email:Neuro@temple.edu
 
 Any graduate student in a Ph.D. program at Temple University can participate in the Neuroscience Program.  A Graduate Specialization in Neuroscience is awarded upon completion of the Ph.D. and is listed on the student’s transcript. The following are the requirements to complete the Graduate Specialization in Neuroscience:
 
 ## Admission
 
-For an application to the program, please contact the [Student Services Coordinator](tuf39500@temple.edu).
+For an application to the program, please contact the [Student Services Coordinator](Neuro@temple.edu).
 
 Graduate students are admitted to the Program after they have been accepted into a Ph.D. program based on an interest to pursue their research in the neuroscience area. Upon successful completion of their departmental and Neuroscience Program requirements, students receive a Ph.D. degree in the discipline represented by their department with a Specialization in Neuroscience. To fulfill the requirements of the Program, students must pass courses in 2 areas of neuroscience as well as participate in the Neuroscience Program's Seminars and Journal Clubs for four semesters.
 
@@ -236,7 +235,7 @@ To Be Determined By Content (not all topics will count)
 
 In 1998 at Temple University, a university-wide interdisciplinary Program in Neuroscience was approved and funded by the Provost’s Office to facilitate multidisciplinary interactions among faculty interested in neuroscience and to provide a Specialization in Neuroscience both at the graduate and undergraduate levels. The graduate program continues to be active. A Neuroscience Seminar Series includes Temple University faculty alternating as presenters with neuroscience faculty members invited from other universities. To facilitate university-wide participation, lectures alternate between the main and health sciences campuses. Students read recent articles by each speaker and meet with the speaker for journal-club style discussions. This gives students the opportunity to meet neuroscientists at Temple and from throughout the country. The Neuroscience Specialization will be awarded to students in the following departments: Biology, Pharmacology, Physical Therapy, and Psychology.
 
-Learn more about the [Neuroscience Specialization](http://www.cla.temple.edu/neuroscience/graduate-specialization/) admission and requirements, and contact the [Neuroscience Student Services Coordinator](tuf39500@temple.edu) for application information.
+Learn more about the [Neuroscience Specialization](http://www.cla.temple.edu/neuroscience/graduate-specialization/) admission and requirements, and contact the [Neuroscience Student Services Coordinator](Neuro@temple.edu) for application information.
 
 ### Certificate in Neuroscience
 
