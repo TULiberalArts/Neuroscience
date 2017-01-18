@@ -7,15 +7,18 @@ published: true
 
 ## Program Overview
 
-The M.S. in Neuroscience: Systems, Behavior and Plasticity provides highly advanced training and faculty-mentored research in a rapidly evolving field with practical applications in careers ranging from health
-care to public policy and economics.
+The **M.S. in Neuroscience: Systems, Behavior and Plasticity** provides highly advanced training and faculty-mentored research in a rapidly evolving field with practical applications in careers ranging from health care to public policy and economics.
 
 This innovative program was developed by Temple University’s Neuroscience faculty, consisting of top faculty from the Departments of Psychology, Physical Therapy, and Kinesiology, to help qualified students gain core expertise in specific areas of neuroscience — including molecular, cellular, systems and behavioral neuroscience.
 
 In addition, our world-renowned faculty are committed to helping students develop professional competence in oral and written communication, as well as the analytical thinking and logic necessary to succeed in the
 laboratory, the classroom and beyond.
 
-Programs of Study
+## Academic Offerings
+
+- [M.S. in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/) http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/
+
+## Programs of Study
 
 There are 3 areas of study in the Neuroscience Master's Program. They are:
 
