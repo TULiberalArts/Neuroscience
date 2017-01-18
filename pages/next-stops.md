@@ -1,8 +1,11 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
+
+## Next Stops
 
 Students have the opportunity for external internships and hands-on research experience that translates into real-world applications.
 
