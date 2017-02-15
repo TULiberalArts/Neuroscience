@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate/"
+permalink: /undergraduate/
 layout: page
+published: true
 ---
 
 Our program enables students to pursue a curriculum in several departments, colleges and schools at Temple. Neuroscience is an interdisciplinary field addressing neural and brain function at multiple levels. It encompasses a broad domain that ranges from molecular genetics and neural development, to brain processes involved in cognition and emotion, to mechanisms and consequences of neurodegenerative disease. The field also includes mathematical and physical principles involved in modeling neural systems and in brain imaging.
@@ -20,10 +21,10 @@ Classes are taught by full-time faculty with degrees in  neuroscience and extens
 
 ## Academic offerings
 
-- BS in Neuroscience
-- Minor in Neuroscience Research
-- MS in Neuroscience: Systems, Behavior and Plasticity
-- PhD Specialization in Neuroscience
+- [BS in Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/bs-neuroscience-systems-behavior-plasticity/)
+- [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/)
+- [MS in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
+- [PhD Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience/graduate-specialization/graduate-program/)
 
 ## Neuroscience Major
 
