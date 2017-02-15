@@ -16,7 +16,7 @@ laboratory, the classroom and beyond.
 
 ## Academic Offerings
 
-- [M.S. in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/) http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/
+- [M.S. in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
 
 ## Programs of Study
 
