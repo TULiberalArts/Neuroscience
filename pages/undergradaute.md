@@ -23,6 +23,7 @@ Classes are taught by full-time faculty with degrees in  neuroscience and extens
 
 - [BS in Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/bs-neuroscience-systems-behavior-plasticity/)
 - [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/)
+- 4+1 Neuroscience 5-Year Master’s Program 
 - [MS in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
 - [PhD Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience/graduate-specialization/graduate-program/)
 
@@ -82,3 +83,78 @@ Select two of the following:	6-8
 - CHEM 4107	Drug Analysis
 - PHYS 3301	Electricity and Magnetism
 Total Credit Hours	52-54
+
+## (4+1) Neuroscience 5-Year Master’s Program 
+
+### Program Description 4+1 
+
+The 4+1 Master in Neuroscience Program offers outstanding Temple University Neuroscience majors the opportunity to earn both the Bachelor of Arts in Neuroscience and the Master of Science in Neuroscience in just 5 years. Admission to the program is highly selective.  The program is designed to provide a research-intensive experience, advanced coursework, and professional development to students who intend to pursue doctoral studies in any of the academic Neuroscience disciplines.
+Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
+
+Students admitted to the program will complete 30 credits during the senior year, of which 9 credits are graduate courses. These 9 credits will count toward both the BA and MS degrees.  Each student will work with a faculty sponsor to develop and implement a master’s project.
+
+On completion of the senior year, students receive the BA in Neuroscience, and then are formally admitted to the MS program in Neuroscience (with 9 graduate credits already completed).
+
+During the fifth year, 4+1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series, and master’s project research.
+
+### Admission Requirements
+
+- Neuroscience GPA 3.67
+- Overall GPA 3.67
+- A mentorship agreement from the faculty sponsor
+
+### Applications
+
+Applications are due April 1st
+
+### Student Application Materials
+
+Assemble and submit the following materials as email attachments to [Neuro@Temple.edu](mailto:Neuro@Temple.edu). 
+
+All materials must be submitted in a single email.
+
+- Unofficial undergraduate transcripts
+- 4+1 Application Form (download)
+- Signed Faculty Sponsor Agreement (download)
+- A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience, and future career goals. 
+
+### Letters of Recommendation
+
+Two letters of recommendation from Temple University faculty are required.  At least one letter must be from a faculty member affiliated with the CLA Neuroscience Program.  Please request that faculty recommenders submit the letter as an email attachment to [Neuro@Temple.edu](mailto:Neuro@Temple.edu), with the applicant’s full name in the subject line.
+
+### 4+1 Program Contact Information
+
+### Program Directors
+
+Vinay Parikh, Ph.D.
+1701 North 13th Street, Weiss Hall
+Philadelphia, PA 19122
+Office Phone: 215-204-1572
+Email: [parikh10@temple.edu](mailto:parikh10@temple.edu)  
+
+Debra Bangasser, Ph.D.
+1701 North 13th Street
+873 Weiss Hall
+Philadelphia, PA 19122
+Office Phone: 215-204-1015
+Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)
+
+### Academic Advisor
+
+Sarah Mclaughlin
+Weiss Hall Room 638
+1701 N 13th Street
+Philadelphia, PA 19122
+215-204-3441
+Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)   
+
+## Neuroscience Minor
+
+The Minor in Neuroscience Research expands opportunities for Temple students to get research experience and to become more competitive in their applications to graduate and professional schools. The required courses in the Neuroscience Research Minor focus on basic neuroscience, cellular and molecular neuroscience, and neuroscientific techniques. Because of some overlap in coursework, the students must choose to minor in either the Neuroscience Research or the Cognitive Neuroscience minor.
+
+## Independent Study in Neuroscience
+Students majoring in Neuroscience are strongly encouraged to participate in research by taking courses in Independent Study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator (http://www.cla.temple.edu/neuroscience/contact/) and [Program Director](http://www.cla.temple.edu/neuroscience/contact/) will work with students to identify these independent study opportunities.
+
+## Graduating with Distinction in Neuroscience
+
+Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduation with Distinction can be achieved by maintaining a Grade Point Average 3.0 of better in all Neuroscience (NSI) Courses, completing two semesters of Independent Study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and students.  Students MUST complete an Application for Distinction. Guidelines for the paper and poster can be found by clicking [here](http://www.cla.temple.edu/neuroscience/undergraduate/distinction-guidelines/). 
