@@ -5,6 +5,27 @@ layout: page
 published: true
 ---
 
+Director:
+
+Vinay Parikh
+Weiss Hall
+[(215)204-1572](tel:2152041572 )
+[vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) 
+
+Graduate Chair:
+
+Dr. Debra Bangasser
+873 Weiss Hall
+[(215)204-1015](tel:2152041015)
+[debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)
+
+Coordinator:
+
+Sarah McLaughlin
+638 Weiss Hall
+[(215)204-3441](tel:2152043441)
+[smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+
 ## Internships & Opportunities
 
 Internships are excellent ways to capitalize on your experience in the field of Neuroscience. Please contact [Neuro@Temple.edu](mailto:Neuro@Temple.edu) with any questions after viewing the opportunities listed below.
