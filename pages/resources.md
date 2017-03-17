@@ -30,9 +30,7 @@ Sarah McLaughlin<br/>
 
 Internships are excellent ways to capitalize on your experience in the field of Neuroscience. Please contact [Neuro@Temple.edu](mailto:Neuro@Temple.edu) with any questions after viewing the opportunities listed below.
 
-### February
-
-- February 28th, 2016 (2017 Deadline TBA): [University of Texas Health Science Center at San Antonio, Department of Pharmacology](http://pharmacology.uthscsa.edu/summer.asp) (San Antonio, TX)
+**NEED CURRENT INTERNSHIP CONTENT**
 
 ## Careers
 
