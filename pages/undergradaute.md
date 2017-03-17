@@ -5,8 +5,6 @@ layout: page
 published: true
 ---
 
-Our program enables students to pursue a curriculum in several departments, colleges and schools at Temple. Neuroscience is an interdisciplinary field addressing neural and brain function at multiple levels. It encompasses a broad domain that ranges from molecular genetics and neural development, to brain processes involved in cognition and emotion, to mechanisms and consequences of neurodegenerative disease. The field also includes mathematical and physical principles involved in modeling neural systems and in brain imaging.
-
 ## A Hands-On Approach
 
 Neuroscience majors have the opportunity to gain first-hand research experience by observing and participating in ongoing studies on campus, as well as at external research sites.  
