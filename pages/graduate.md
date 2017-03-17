@@ -25,23 +25,6 @@ There are 3 areas of study in the Neuroscience Master's Program. They are:
 
 ****For more information on our affiliated faculty's research in these three areas, please visit our [faculty page](http://www.cla.temple.edu/neuroscience/faculty-2/).
 
-## Program requirements
-
-Required Courses:
-
-- PSY 8712: Neuroscience Core 3 cr.
-- PSY 5003: Advanced Statistics 3 cr.
-- NSCI 5016: Professional Development in Neuroscience 3 cr.
-- NSCI 5001: Systems and Behavioral Neuroscience 3 cr.
-- NSCI 5002: Neurochemistry 3 cr.
-- NSCI 9381: Readings in Neuroscience 3 cr.
-- Electives 1: 6 cr.
-- NSCI 9991 or 9995: Master’s Project  6 cr.
-
-Total Credit Hours: 30
-
-- Students can take any elective relevant to their area of interest or specialization after approval from the program mentor.
-
 ## Master's Project:
 
 Students are required to work on a Master’s project for both semesters in the second year. Depending upon their career goals, students may opt to get engaged either in a laboratory-based research project or in a non-laboratory project.  Those students who are motivated to join doctoral programs or are interested in research positions will likely gain by working independently on a neuroscientific investigation under the supervision of a faculty member that maintains an active neuroscience research program. The purpose of the project will be to not only train students in specific neuroscientific techniques but also to train students to develop scientific and analytical approach towards a problem, formulate clear research questions, conduct experiment, and analyze/interpret data.  On the other hand, students who are not intending bench-level research upon graduation and are  interested in non-research jobs (such as teaching, counseling, research administration, public policy etc.), may get engaged in a non-laboratory project of a similar scope. This may include activities such as conducting a literature review on a topic and presenting it to the audience, drafting a scope of work for a grant funding agency, preparing a consulting proposal for a prospective client.
@@ -56,26 +39,28 @@ Applicants must meet the [requirements for admission](http://www.cla.temple.edu/
 
 ## Contact
 
-Admissions and inquiries:
-
-Student Services Specialist | Neuroscience Program
-Temple University
-Weiss Hall Room 638
-1701 N 13th Street Philadelphia, PA 19122
-Phone: 215-204-3441
-Email: christine.engelhardt@temple.edu
+**Admissions and inquiries:**
 
 Director, Neuroscience Program: 
-Dr. Vinay Parikh
-Email: vinay.parikh@temple.edu
+Dr. Vinay Parikh<b<br/>r/>
+Weiss Hall
+[(215)204-1572](tel:2152041572 )<br/>
+[vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) <br/>
 
 Associate Director, Master's Program in Neuroscience
-Dr. Debra Bangasser
-Email: debra.bangasser@temple.edu
+Dr. Debra Bangasser<br/>
+873 Weiss Hall<br/>
+[(215)204-1015](tel:2152041015)<br/>
+[debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
+
+Student Services Specialist
+Sarah McLaughlin<br/>
+Phone: [(215) 204-3441](tel:2152043441)
+Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
  
 ## Admission Requirements
 
-All M.S. applicants must meet the requirements for admission listed below. Application Deadline: April 15, 2017
+All M.S. applicants must meet the requirements for admission listed below. Application Deadline: April 15, 2017.
 
 Please visit our [Application Instructions](http://www.cla.temple.edu/neuroscience/ms-application/) page for more information on how to apply.
 
@@ -151,10 +136,10 @@ Admissions and inquiries:
 
 Student Services Specialist | Neuroscience Program
 Temple University
-Weiss Hall Room 638
+638 Weiss Hall 
 1701 N 13th Street Philadelphia, PA 19122
-Phone: 215-204-3441
-Email:Neuro@temple.edu
+Phone: [(215) 204-3441](tel:2152043441)
+Email: [Neuro@temple.edu](mailto:Neuro@temple.edu)
 
 Any graduate student in a Ph.D. program at Temple University can participate in the Neuroscience Program.  A Graduate Specialization in Neuroscience is awarded upon completion of the Ph.D. and is listed on the student’s transcript. The following are the requirements to complete the Graduate Specialization in Neuroscience:
 
