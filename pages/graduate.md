@@ -11,9 +11,6 @@ The **M.S. in Neuroscience: Systems, Behavior and Plasticity** provides highly a
 
 This innovative program was developed by Temple University’s Neuroscience faculty, consisting of top faculty from the Departments of Psychology, Physical Therapy, and Kinesiology, to help qualified students gain core expertise in specific areas of neuroscience — including molecular, cellular, systems and behavioral neuroscience.
 
-In addition, our world-renowned faculty are committed to helping students develop professional competence in oral and written communication, as well as the analytical thinking and logic necessary to succeed in the
-laboratory, the classroom and beyond.
-
 ## Academic Offerings
 
 - [M.S. in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
@@ -25,7 +22,8 @@ There are 3 areas of study in the Neuroscience Master's Program. They are:
 - Cognitive Neuroscience
 - Behavioral Neuroscience
 - Motor Neuroscience and Rehabilitation
-- For more information on our affiliated faculty's research in these three areas, please visit our [faculty page](http://www.cla.temple.edu/neuroscience/faculty-2/).
+
+****For more information on our affiliated faculty's research in these three areas, please visit our [faculty page](http://www.cla.temple.edu/neuroscience/faculty-2/).
 
 ## Program requirements
 
@@ -37,14 +35,12 @@ Required Courses:
 - NSCI 5001: Systems and Behavioral Neuroscience 3 cr.
 - NSCI 5002: Neurochemistry 3 cr.
 - NSCI 9381: Readings in Neuroscience 3 cr.
-
-Electives1: 6 cr.
-
-NSCI 9991 or 9995: Master’s Project  6 cr.
+- Electives 1: 6 cr.
+- NSCI 9991 or 9995: Master’s Project  6 cr.
 
 Total Credit Hours: 30
 
-1 Students can take any elective relevant to their area of interest or specialization after approval from the program mentor.
+- Students can take any elective relevant to their area of interest or specialization after approval from the program mentor.
 
 ## Master's Project:
 
