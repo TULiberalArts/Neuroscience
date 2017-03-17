@@ -126,27 +126,27 @@ Two letters of recommendation from Temple University faculty are required.  At l
 
 ### Program Directors
 
-Vinay Parikh, Ph.D.
-1701 North 13th Street, Weiss Hall
-Philadelphia, PA 19122
-Office Phone: 215-204-1572
-Email: [parikh10@temple.edu](mailto:parikh10@temple.edu)  
+Vinay Parikh, Ph.D.<br/> 
+1701 North 13th Street, Weiss Hall<br/>
+Philadelphia, PA 19122<br/>
+Office Phone: 215-204-1572<br/>
+Email: [parikh10@temple.edu](mailto:parikh10@temple.edu)  <br/>
 
-Debra Bangasser, Ph.D.
-1701 North 13th Street
-873 Weiss Hall
-Philadelphia, PA 19122
-Office Phone: 215-204-1015
-Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)
+Debra Bangasser, Ph.D.<br/>
+1701 North 13th Street<br/>
+873 Weiss Hall<br/>
+Philadelphia, PA 19122<br/>
+Office Phone: 215-204-1015<br/>
+Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
 
 ### Academic Advisor
 
-Sarah Mclaughlin
-Weiss Hall Room 638
-1701 N 13th Street
-Philadelphia, PA 19122
-215-204-3441
-Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)   
+Sarah Mclaughlin<br/>
+Weiss Hall Room 638<br/>
+1701 N 13th Street<br/>
+Philadelphia, PA 19122<br/>
+215-204-3441<br/>
+Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 
 ## Neuroscience Minor
 
@@ -157,4 +157,4 @@ Students majoring in Neuroscience are strongly encouraged to participate in rese
 
 ## Graduating with Distinction in Neuroscience
 
-Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduation with Distinction can be achieved by maintaining a Grade Point Average 3.0 of better in all Neuroscience (NSI) Courses, completing two semesters of Independent Study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and students.  Students MUST complete an Application for Distinction. Guidelines for the paper and poster can be found by clicking [here](http://www.cla.temple.edu/neuroscience/undergraduate/distinction-guidelines/). 
+Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduation with Distinction can be achieved by maintaining a Grade Point Average 3.0 of better in all Neuroscience (NSI) Courses, completing two semesters of Independent Study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and students.  Students MUST complete an Application for Distinction. Guidelines for the paper and poster can be found by clicking [here](http://www.cla.temple.edu/neuroscience/undergraduate/distinction-guidelines/).
