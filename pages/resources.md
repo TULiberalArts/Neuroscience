@@ -5,26 +5,26 @@ layout: page
 published: true
 ---
 
-Director:
+**Director:**
 
-Vinay Parikh
+Vinay Parikh<b<br/>r/>
 Weiss Hall
-[(215)204-1572](tel:2152041572 )
-[vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) 
+[(215)204-1572](tel:2152041572 )<br/>
+[vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) <br/>
 
-Graduate Chair:
+**Graduate Chair:**
 
-Dr. Debra Bangasser
-873 Weiss Hall
-[(215)204-1015](tel:2152041015)
-[debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)
+Dr. Debra Bangasser<br/>
+873 Weiss Hall<br/>
+[(215)204-1015](tel:2152041015)<br/>
+[debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
 
-Coordinator:
+**Coordinator:**
 
-Sarah McLaughlin
-638 Weiss Hall
-[(215)204-3441](tel:2152043441)
-[smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+Sarah McLaughlin<br/>
+638 Weiss Hall<br/>
+[(215)204-3441](tel:2152043441)<br/>
+[smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 
 ## Internships & Opportunities
 
