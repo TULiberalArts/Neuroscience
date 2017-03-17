@@ -7,8 +7,8 @@ published: true
 
 **Director:**
 
-Vinay Parikh<b<br/>r/>
-Weiss Hall
+Vinay Parikh<br/>
+Weiss Hall<br/>
 [(215)204-1572](tel:2152041572 )<br/>
 [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) <br/>
 
