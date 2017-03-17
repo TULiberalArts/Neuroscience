@@ -53,7 +53,7 @@ During the fifth year, 4+1 students will complete 23 graduate credits, including
 
 ### Applications
 
-Applications are due April 1st
+- Applications are due **April 1st**
 
 ### Student Application Materials
 
