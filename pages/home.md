@@ -2,7 +2,7 @@
 title: Home
 permalink: /
 layout: home
-feature: false
+feature: true
 feature-title: null
 feature-body: >-
   Neuroscience is an interdisciplinary field addressing neural and brain
@@ -13,7 +13,7 @@ feature-body: >-
   mechanisms and consequences of neurodegenerative disease. The field
   also includes mathematical and physical principles involved in modeling neural
   systems and in brain  imaging.
-feature-image: null
+feature-image: hero_Neuroscience.png
 published: true
 ---
 
