@@ -10,7 +10,7 @@ feature-body: >-
   curriculum in several departments, colleges and schools at Temple.It
   encompasses a broad domain that ranges from molecular genetics and neural
   development, to brain processes involved in cognition and emotion, to
-  mechanisms and consequences of        neurodegenerative disease. The field
+  mechanisms and consequences of neurodegenerative disease. The field
   also includes mathematical and physical principles involved in modeling neural
   systems and in brain  imaging.
 feature-image: null
