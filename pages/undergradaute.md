@@ -39,11 +39,9 @@ A number of departments throughout Temple University include research and teachi
 The 4+1 Master in Neuroscience Program offers outstanding Temple University Neuroscience majors the opportunity to earn both the Bachelor of Arts in Neuroscience and the Master of Science in Neuroscience in just 5 years. Admission to the program is highly selective.  The program is designed to provide a research-intensive experience, advanced coursework, and professional development to students who intend to pursue doctoral studies in any of the academic Neuroscience disciplines.
 Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
 
-Students admitted to the program will complete 30 credits during the senior year, of which 9 credits are graduate courses. These 9 credits will count toward both the BA and MS degrees.  Each student will work with a faculty sponsor to develop and implement a master’s project.
+The accelerated 4+1 MS degree program will consist of a maximum of 113 semester hours of undergraduate coursework, a maximum of 10 semester hours of graduate coursework to count towards both the undergraduate and the graduate degrees and an additional 20 semester hours of graduate coursework as a graduate student. Upon successful completion of the fourth year, students will receive a B.S. in Neuroscience, using 10 credits of graduate coursework, if they have met all other degree requirements.  At the end of the contiguous fifth year, students will receive a M.S. in Neuroscience. 
 
-On completion of the senior year, students receive the BA in Neuroscience, and then are formally admitted to the MS program in Neuroscience (with 9 graduate credits already completed).
-
-During the fifth year, 4+1 students will complete 23 graduate credits, including courses in research methods, statistics, ethics, topical seminars, a professional development seminar series, and master’s project research.
+Students apply to the 4+1 program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
 
 ### Admission Requirements
 
