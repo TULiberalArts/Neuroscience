@@ -43,7 +43,7 @@ Applicants must meet the [requirements for admission](http://www.cla.temple.edu/
 
 Director, Neuroscience Program: 
 Dr. Vinay Parikh<br/>
-Weiss Hall
+Weiss Hall<br/>
 [(215)204-1572](tel:2152041572 )<br/>
 [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) <br/>
 
