@@ -42,7 +42,7 @@ Applicants must meet the [requirements for admission](http://www.cla.temple.edu/
 **Admissions and inquiries:**
 
 Director, Neuroscience Program: 
-Dr. Vinay Parikh<b<br/>r/>
+Dr. Vinay Parikh<br/>
 Weiss Hall
 [(215)204-1572](tel:2152041572 )<br/>
 [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) <br/>
@@ -55,7 +55,7 @@ Dr. Debra Bangasser<br/>
 
 Student Services Specialist
 Sarah McLaughlin<br/>
-Phone: [(215) 204-3441](tel:2152043441)
+Phone: [(215) 204-3441](tel:2152043441)<br/>
 Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
  
 ## Admission Requirements
