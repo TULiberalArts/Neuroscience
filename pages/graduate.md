@@ -112,11 +112,11 @@ Please note that if evaluators send letters directly to the Student Services Spe
 b. Have your official Transcripts Sent to Temple University Neuroscience Program. Request that transcripts from all your undergraduate institutions (including those from which you did not receive a degree) be sent to Temple University Neuroscience Program.  If you have completed graduate credits, transcripts from those institutions should also be sent to us. All official transcripts should be sent to the following address:
 
 Student Services Specialist
-Neuroscience Program
-Sarah Mclaughlin
-638 Weiss Hall
-1701 North 13th Street
-Philadelphia, PA 19122-6085
+Neuroscience Program<br/>
+Sarah Mclaughlin<br/>
+638 Weiss Hall<br/>
+1701 North 13th Street<br/>
+Philadelphia, PA 19122-6085<br/>
 
 c.  In addition to the copies of your transcripts, please send electronic copies of the the following required application materials to the Student Services Specialist:
 - The completed Neuroscience Master's Data Sheet
@@ -133,12 +133,12 @@ Have your English proficiency scores (if required) sent to Temple University ele
 
 Admissions and inquiries: 
 
-Student Services Specialist | Neuroscience Program
-Sarah Mclaughlin
-638 Weiss Hall 
-1701 N 13th Street Philadelphia, PA 19122
-Phone: [(215) 204-3441](tel:2152043441)
-Email: [Neuro@temple.edu](mailto:Neuro@temple.edu)
+Student Services Specialist | Neuroscience Program<br/>
+Sarah Mclaughlin<br/>
+638 Weiss Hall <br/>
+1701 N 13th Street Philadelphia, PA 19122<br/>
+Phone: [(215) 204-3441](tel:2152043441)<br/>
+Email: [Neuro@temple.edu](mailto:Neuro@temple.edu)<br/>
 
 Any graduate student in a Ph.D. program at Temple University can participate in the Neuroscience Program.  A Graduate Specialization in Neuroscience is awarded upon completion of the Ph.D. and is listed on the student’s transcript. The following are the requirements to complete the Graduate Specialization in Neuroscience:
 
