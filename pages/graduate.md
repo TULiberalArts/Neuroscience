@@ -60,7 +60,7 @@ Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
  
 ## Admission Requirements
 
-All M.S. applicants must meet the requirements for admission listed below. Application Deadline: April 15, 2017.
+All M.S. applicants must meet the requirements for admission listed below. Application Deadline: May 1, 2017.
 
 Please visit our [Application Instructions](http://www.cla.temple.edu/neuroscience/ms-application/) page for more information on how to apply.
 
@@ -90,7 +90,7 @@ All completed applications are reviewed. If you do not meet one or more of the a
 
 UPDATE: APPLICATIONS ARE NOW BEING ACCEPTED
 
-THE APPLICATION DEADLINE IS APRIL 15, 2017
+THE APPLICATION DEADLINE IS MAY 1, 2017
 
 WE ONLY ACCEPT ONLINE APPLICATIONS. TO APPLY ONLINE, FOLLOW THE INSTRUCTIONS BELOW.
 
@@ -135,7 +135,7 @@ Have your English proficiency scores (if required) sent to Temple University ele
 Admissions and inquiries: 
 
 Student Services Specialist | Neuroscience Program
-Temple University
+Sarah Mclaughlin
 638 Weiss Hall 
 1701 N 13th Street Philadelphia, PA 19122
 Phone: [(215) 204-3441](tel:2152043441)
