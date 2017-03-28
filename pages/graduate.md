@@ -35,7 +35,7 @@ Because the brain is involved in every important human endeavor, understanding o
 
 ## Admissions Process
 
-Applicants must meet the [requirements for admission](http://www.cla.temple.edu/neuroscience/m-s-neuroscience-admission-requirements/). Learn more about the admissions requirements for our MS program and about the [application procedure](http://www.cla.temple.edu/neuroscience/ms-application/).
+Applicants must meet the requirements for admission.
 
 ## Contact
 
@@ -61,8 +61,6 @@ Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 ## Admission Requirements
 
 All M.S. applicants must meet the requirements for admission listed below. Application Deadline: May 1, 2017.
-
-Please visit our [Application Instructions](http://www.cla.temple.edu/neuroscience/ms-application/) page for more information on how to apply.
 
 Coursework Required for Admission Consideration: Bachelor’s degree in Discipline/Related Discipline: Admission to the MS program will require a bachelor's degree (B.S. or B.A.) in one of the following disciplines:
 - Bioengineering
@@ -115,6 +113,7 @@ b. Have your official Transcripts Sent to Temple University Neuroscience Program
 
 Student Services Specialist
 Neuroscience Program
+Sarah Mclaughlin
 638 Weiss Hall
 1701 North 13th Street
 Philadelphia, PA 19122-6085
