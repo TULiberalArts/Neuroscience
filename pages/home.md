@@ -13,7 +13,7 @@ feature-body: >-
   mechanisms and consequences of neurodegenerative disease. The field
   also includes mathematical and physical principles involved in modeling neural
   systems and in brain  imaging.
-feature-image: hero_Neuroscience.png
+feature-image: media/hero_Neuroscience.png
 published: true
 ---
 
