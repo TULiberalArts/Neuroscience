@@ -4,10 +4,9 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
+Our Neuroscience majors gets hands-on experience. You'll have the opportunity to participate in ongoing research in our faculty-run laboratories and get course credit for real-world internships.
 
-Students have the opportunity for external internships and hands-on research experience that translates into real-world applications.
-
-Recent internship placements have included:
+Recent internship placements include the following:
 
 - Abington Hospital in the Neurovascular/Neurology Department
 - Shriners Hospitals Pediatric Research Center, Temple School of Medicine
@@ -18,7 +17,7 @@ Recent internship placements have included:
 - Division of Neurology, Children’s Hospital of Philadelphia
 - Department of Biomedical Science, Jefferson University
 
-Among various and diverse job landings, our alumni go on to forge successful careers as researchers, scientists, physicians, neuropsychologists, psychologists and therapists.
+Neuroscience is an interdisciplinary field that considers neural and brain function at multiple levels, making it excellent preparation for a range of professional careers in the health sciences. Our alumni go on to forge successful careers as researchers, scientists, physicians, neuropsychologists, psychologists and therapists.
 
 ## Make your Declaration
 
