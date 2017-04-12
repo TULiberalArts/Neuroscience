@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-Students have the opportunity for external internships and hands-on research experience that translates into real-world applications. res 
+Students have the opportunity for external internships and hands-on research experience that translates into real-world applications.
 
 Recent internship placements have included:
 
