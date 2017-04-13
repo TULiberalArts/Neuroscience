@@ -31,7 +31,7 @@ A number of departments throughout Temple University include research and teachi
 
 ## 4+1 Neuroscience 5-Year Master’s Program 
 
-### 4+1 Program Description
+### Program Description
 
 The 4+1 Master in Neuroscience Program offers outstanding Temple University Neuroscience majors the opportunity to earn both the Bachelor of Arts in Neuroscience and the Master of Science in Neuroscience in just 5 years. Admission to the program is highly selective.  The program is designed to provide a research-intensive experience, advanced coursework and professional development to students who intend to pursue doctoral studies in any of the academic Neuroscience disciplines.
 
