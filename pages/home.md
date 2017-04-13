@@ -20,7 +20,7 @@ Temple’s Neuroscience program teaches students to explore neural and brain fun
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Real-World Experience from Day One" 
-    content=" " 
+    content="Our students don't just learn from books. You'll get hands-on experience in research labs right here on campus and internship opportunities in the broader Philadelphia area." 
     image="" 
     button-link=" " 
     button-text="Learn More" %}
