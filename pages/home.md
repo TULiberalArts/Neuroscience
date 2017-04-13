@@ -36,7 +36,7 @@ Temple’s Neuroscience program teaches students to explore neural and brain fun
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Interdisciplinary Study" 
-        content=" " 
+        content="Our interdisciplinary curriculum allows students to take coursework in multiple departments at Temple, while engaging in the study of one of the most dynamic areas of science." 
         image="" 
         button-link=" " 
         button-text="Learn More" %}
