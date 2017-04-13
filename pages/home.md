@@ -5,8 +5,10 @@ layout: home
 feature: true
 feature-title: null
 feature-body: >-
-  Neuroscience is an interdisciplinary field addressing neural and brain
-  function at multiple levels. Our program enables students to pursue a
+  Our Neuroscience program teaches students to explore neural and brain function
+  at multiple levels in a rapidly growing field. Our students study the neural
+  basis of addiction, developmental disorders, ADHD, depression, anxiety and
+  age-related disorders, and much more. Our program enables students to pursue a
   curriculum in several departments, colleges and schools at Temple. It
   encompasses a broad domain that ranges from molecular genetics and neural
   development, to brain processes involved in cognition and emotion, to
@@ -14,8 +16,6 @@ feature-body: >-
 feature-image: media/hero_Neuroscience.png
 published: true
 ---
-
-Temple’s Neuroscience program teaches students to explore neural and brain function at multiple levels in a rapidly growing field. Our students study the neural basis of addiction, developmental disorders, ADHD, depression, anxiety and age-related disorders, and much more. Our interdisciplinary curriculum allows students to take coursework in multiple departments at Temple, while engaging in the study of one of the most dynamic areas of science.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
@@ -36,7 +36,7 @@ Temple’s Neuroscience program teaches students to explore neural and brain fun
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Interdisciplinary Study" 
-        content="Our interdisciplinary curriculum allows students to take coursework in multiple departments at Temple, while engaging in the study of one of the most dynamic areas of science." 
+        content="Our interdisciplinary curriculum allows students to take coursework in multiple departments at Temple while engaging in the study of one of the most dynamic areas of science." 
         image="" 
         button-link=" " 
         button-text="Learn More" %}
