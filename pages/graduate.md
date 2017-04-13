@@ -13,7 +13,8 @@ This innovative program was developed by Temple University’s Neuroscience facu
 
 ## Academic Offerings
 
-- [M.S. in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
+- [MS in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
+- [PhD Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience/graduate-specialization/graduate-program/)
 
 ## Programs of Study
 
