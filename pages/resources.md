@@ -25,7 +25,7 @@ Sarah McLaughlin<br/>
 [(215)204-3441](tel:2152043441)<br/>
 [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 
-## Internships & Opportunities
+## Internships
 
 Internships are excellent ways to capitalize on your experience in the field of Neuroscience. Please contact [Neuro@Temple.edu](mailto:Neuro@Temple.edu) with any questions after viewing the opportunities listed below.
 
@@ -93,4 +93,4 @@ Students graduating with a major (B.S.) in neuroscience from Temple University w
 - [National Institute of Mental Health](http://www.nimh.nih.gov) 
 - [National Institute of Neurological Disorders and Stroke](http://www.ninds.nih.gov) 
 - [Society for Neuroscience](http://www.sfn.org) 
-- [The Chronicle of Higher Education](http://www.chronicle.com/jobs) 
+- [The Chronicle of Higher Education](http://www.chronicle.com/jobs)
