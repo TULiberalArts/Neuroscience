@@ -85,16 +85,12 @@ Students graduating with a major (B.S.) in neuroscience from Temple University w
 
 ### Additional Resources
 
-- [American Academy Neurology](http://www.aan.com) 
+- [American Academy of Neurology](http://www.aan.com) 
 - [American Neurologic Association](http://www.aneuroa.org) 
 - [Association for Women in Science](http://www.awis.org) 
 - [National Institute on Drug Abuse](http://www.nida.nih.gov) 
-- [National Institute of Health](http://www.nih.gov) 
+- [National Institutes of Health](http://www.nih.gov) 
 - [National Institute of Mental Health](http://www.nimh.nih.gov) 
 - [National Institute of Neurological Disorders and Stroke](http://www.ninds.nih.gov) 
 - [Society for Neuroscience](http://www.sfn.org) 
 - [The Chronicle of Higher Education](http://www.chronicle.com/jobs) 
-- [National Institute of Mental Health](http://www.nimh.nih.gov/)
-- [National Institute of Neurological Disorders and Stroke](http://www.ninds.nih.gov/) 
-- [Society for Neuroscience](http://www.sfn.org/)
-- [The Chronicle of Higher Education](http://www.chronicle.com/jobs)
