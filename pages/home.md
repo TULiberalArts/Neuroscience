@@ -19,23 +19,23 @@ Temple’s Neuroscience program teaches students to explore neural and brain fun
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Add Another Year-and a Master's" 
-    content="Our competitive 4+1 program offers students the opportunity to earn both a BA and an MS in Neuroscience in just five years" 
+    title="Real-World Experience from Day One" 
+    content=" " 
     image="" 
-    button-link="undergraduate/#(4+1)-Neuroscience-5-Year-Master’s-Program" 
+    button-link=" " 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
+      title="Add Another Year-and a Master's" 
+      content="Our competitive 4+1 program offers students the opportunity to earn both a BA and an MS in Neuroscience in just five years" 
       image="" 
-      button-link=" " 
+      button-link="undergraduate/#(4+1)-Neuroscience-5-Year-Master’s-Program" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="Interdisciplinary Study" 
         content=" " 
         image="" 
         button-link=" " 
