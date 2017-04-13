@@ -29,9 +29,9 @@ A major in Neuroscience enables students to pursue a curriculum in several depar
 
 A number of departments throughout Temple University include research and teaching in neuroscience, including departments in the Colleges of Engineering (CE), Health Professions (CHP), Liberal Arts (CLA), Science and Technology (CST), and the School of Medicine (TUSM). Neuroscience courses are open to students with any major at Temple University.
 
-## (4+1) Neuroscience 5-Year Master’s Program 
+## 4+1 Neuroscience 5-Year Master’s Program 
 
-### Program Description 4+1 
+### 4+1 Program Description
 
 The 4+1 Master in Neuroscience Program offers outstanding Temple University Neuroscience majors the opportunity to earn both the Bachelor of Arts in Neuroscience and the Master of Science in Neuroscience in just 5 years. Admission to the program is highly selective.  The program is designed to provide a research-intensive experience, advanced coursework and professional development to students who intend to pursue doctoral studies in any of the academic Neuroscience disciplines.
 
