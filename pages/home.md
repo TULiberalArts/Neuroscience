@@ -22,7 +22,7 @@ published: true
     title="Real-World Experience from Day One" 
     content="Our students don't just learn from books. You'll get hands-on experience in research labs right here on campus and internship opportunities in the broader Philadelphia area." 
     image="" 
-    button-link="resources/#internships-and-opportunities" 
+    button-link="resources/#internships" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
