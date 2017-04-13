@@ -30,7 +30,7 @@ Temple’s Neuroscience program teaches students to explore neural and brain fun
       title="Add Another Year — and a Master's" 
       content="Our competitive 4+1 program offers students the opportunity to earn both a bachelor's and master's degree in Neuroscience in just five years" 
       image="" 
-      button-link="undergraduate/#4+1-Neuroscience-5-Year-Master’s-Program" 
+      button-link="undergraduate/#program-description" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
