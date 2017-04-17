@@ -27,7 +27,7 @@ Sarah McLaughlin<br/>
 
 ## Internships
 
-Internships are excellent ways to capitalize on your experience in the field of Neuroscience. Please contact [Neuro@Temple.edu](mailto:Neuro@Temple.edu) with any questions after viewing the opportunities listed below.
+Internships are excellent ways to capitalize on your experience in the field of neuroscience. Please contact [Neuro@Temple.edu](mailto:Neuro@Temple.edu) with any questions after viewing the opportunities listed below.
 
 **NEED CURRENT INTERNSHIP CONTENT**
 
