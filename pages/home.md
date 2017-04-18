@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home
 feature: true
-feature-title: null
+feature-title: true
 feature-body: >-
   Our Neuroscience program teaches students to explore neural and brain function
   at multiple levels in a rapidly growing field. Our students study the neural
@@ -13,7 +13,7 @@ feature-body: >-
   encompasses a broad domain that ranges from molecular genetics and neural
   development, to brain processes involved in cognition and emotion, to
   mechanisms and consequences of neurodegenerative disease.
-feature-image: media/hero_Neuroscience.png
+feature-image: hero_Neuroscience.png
 published: true
 ---
 
