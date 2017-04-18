@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home
 feature: true
-feature-title: A major in Neuroscience enables students to pursue a curriculum in several departments, colleges, and schools at Temple University in one of the most dynamic areas of science.
+feature-title: Major or minor in Neuroscience.
 feature-body: >-
   Our Neuroscience program teaches students to explore neural and brain function
   at multiple levels in a rapidly growing field. Our students study the neural
