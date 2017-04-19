@@ -4,18 +4,17 @@ permalink: /graduate/
 layout: page
 published: true
 ---
-
-## Program Overview
-
-The **M.S. in Neuroscience: Systems, Behavior and Plasticity** provides highly advanced training and faculty-mentored research in a rapidly evolving field with practical applications in careers ranging from health care to public policy and economics.
-
-This innovative program was developed by Temple University’s Neuroscience faculty, consisting of top faculty from the Departments of Psychology, Physical Therapy, and Kinesiology, to help qualified students gain core expertise in specific areas of neuroscience — including molecular, cellular, systems and behavioral neuroscience.
-
-## Academic Offerings
+## Academic Offerings at a Glance
 
 - [MS in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
 - [PhD Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience/graduate-specialization/graduate-program/)
 - [4+1 Neuroscience 5-Year Master’s Program](/neuroscience/undergraduate/#program-description)
+
+## Program Overview
+
+The **MS in Neuroscience: Systems, Behavior and Plasticity** provides highly advanced training and faculty-mentored research in a rapidly evolving field with practical applications in careers ranging from health care to public policy and economics.
+
+This innovative program was developed by Temple University’s Neuroscience faculty, consisting of top faculty from the Departments of Psychology, Physical Therapy, and Kinesiology, to help qualified students gain core expertise in specific areas of neuroscience — including molecular, cellular, systems and behavioral neuroscience.
 
 ## Programs of Study
 
@@ -291,11 +290,11 @@ NSCI 5001 – Systems and Behavioral Neuroscience
 
 ### Certificate in Neuroscience
 
-Just recently approved, the Certificate in Neuroscience is for Ph.D. students interested in studying neuroscience in any department of the College of Liberal Arts, the College of Health Professions, College of Engineering, College of Science and Technology, and School of Medicine OTHER than Biology, Pharmacology, Physical Therapy, and Psychology, which for historical reasons are covered in the Specialization above. Upon successful completion of their departmental and Neuroscience Program requirements, students receive a Ph.D. degree in the discipline represented by their department with a Certificate in Neuroscience.
+Just recently approved, the Certificate in Neuroscience is for PhD students interested in studying neuroscience in any department of the College of Liberal Arts, the College of Health Professions, College of Engineering, College of Science and Technology, and School of Medicine OTHER than Biology, Pharmacology, Physical Therapy, and Psychology, which for historical reasons are covered in the Specialization above. Upon successful completion of their departmental and Neuroscience Program requirements, students receive a PhD degree in the discipline represented by their department with a Certificate in Neuroscience.
 
 To receive a Certificate in Neuroscience a student must fulfill the following requirements:
 
-- Be a graduate student in good standing in a Temple University Ph.D. program.
+- Be a graduate student in good standing in a Temple University PhD program.
 - Meet all the obligations of the student's participating department.
 - Have one member of the Neuroscience Program on their dissertation committee.
 - Attend and participate in the Seminars/Journal Clubs of the Neuroscience Program for 4 semesters by enrolling for 1 credit each of 4 semesters.
