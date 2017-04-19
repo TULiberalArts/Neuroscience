@@ -21,7 +21,7 @@ Classes are taught by full-time faculty with degrees in neuroscience and extensi
 
 - [BS in Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/bs-neuroscience-systems-behavior-plasticity/)
 - [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/)
-- 4+1 Neuroscience 5-Year Master’s Program 
+- [4+1 Neuroscience 5-Year Master’s Program]("/#program-description")
 
 ## Neuroscience Major
 
