@@ -29,6 +29,10 @@ A major in neuroscience enables students to pursue a curriculum in several depar
 
 A number of departments throughout Temple University include research and teaching in neuroscience, including departments in the Colleges of Engineering (CE), Health Professions (CHP), Liberal Arts (CLA), Science and Technology (CST), and the School of Medicine (TUSM). Neuroscience courses are open to students with any major at Temple University.
 
+## Neuroscience Minor
+
+The Minor in Neuroscience Research expands opportunities for Temple students to get research experience and to become more competitive in their applications to graduate and professional schools. The required courses in the Neuroscience Research Minor focus on basic neuroscience, cellular and molecular neuroscience, and neuroscientific techniques. Because of some overlap in coursework, the students must choose to minor in either the Neuroscience Research or the Cognitive Neuroscience minor.
+
 ## 4+1 Neuroscience 5-Year Master’s Program 
 
 ### Program Description
@@ -89,10 +93,6 @@ Weiss Hall Room 638<br/>
 Philadelphia, PA 19122<br/>
 215-204-3441<br/>
 Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
-
-## Neuroscience Minor
-
-The Minor in Neuroscience Research expands opportunities for Temple students to get research experience and to become more competitive in their applications to graduate and professional schools. The required courses in the Neuroscience Research Minor focus on basic neuroscience, cellular and molecular neuroscience, and neuroscientific techniques. Because of some overlap in coursework, the students must choose to minor in either the Neuroscience Research or the Cognitive Neuroscience minor.
 
 ## Independent Study in Neuroscience
 Students majoring in Neuroscience are strongly encouraged to participate in research by taking courses in Independent Study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator](http://www.cla.temple.edu/neuroscience/contact/) and [Program Director](http://www.cla.temple.edu/neuroscience/contact/) will work with students to identify these independent study opportunities.
