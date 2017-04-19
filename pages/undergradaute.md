@@ -70,7 +70,7 @@ Two letters of recommendation from Temple University faculty are required.  At l
 
 ### 4+1 Program Contact Information
 
-### Program Directors
+**Program Directors**
 
 Vinay Parikh, Ph.D.<br/> 
 1701 North 13th Street, Weiss Hall<br/>
@@ -85,7 +85,7 @@ Philadelphia, PA 19122<br/>
 Office Phone: 215-204-1015<br/>
 Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
 
-### Academic Advisor
+**Academic Advisor**
 
 Sarah McLaughlin<br/>
 Weiss Hall Room 638<br/>
