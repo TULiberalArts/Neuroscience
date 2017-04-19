@@ -17,7 +17,7 @@ Recent internship placements include the following:
 - Division of Neurology, Children’s Hospital of Philadelphia
 - Department of Biomedical Science, Jefferson University
 
-Neuroscience is an interdisciplinary field that considers neural and brain function at multiple levels, making it excellent preparation for a range of professional careers in the health sciences. Our alumni go on to forge successful careers as researchers, scientists, physicians, neuropsychologists, psychologists and therapists.
+The study of neuroscience is excellent preparation for a range of professional careers in the health sciences. Our alumni go on to forge successful careers as researchers, scientists, physicians, neuropsychologists, psychologists and therapists.
 
 ## Make your Declaration
 
