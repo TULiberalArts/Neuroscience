@@ -24,7 +24,7 @@ There are 3 areas of study in the Neuroscience Master's Program:
 - Behavioral Neuroscience
 - Motor Neuroscience and Rehabilitation
 
-****For more information on our affiliated faculty's research in these three areas, please visit our [faculty page](http://www.cla.temple.edu/neuroscience/faculty-2/).
+**For more information on our affiliated faculty's research in these three areas, please visit our [faculty page](http://www.cla.temple.edu/neuroscience/faculty-2/).**
 
 ### Master's Project
 
@@ -134,7 +134,7 @@ Have your English proficiency scores (if required) sent to Temple University ele
 
 In 1998 at Temple University, a university-wide interdisciplinary Program in Neuroscience was approved and funded by the Provost’s Office to facilitate multidisciplinary interactions among faculty interested in neuroscience and to provide a Specialization in Neuroscience both at the graduate and undergraduate levels. The graduate program continues to be active. A Neuroscience Seminar Series includes Temple University faculty alternating as presenters with neuroscience faculty members invited from other universities. To facilitate university-wide participation, lectures alternate between the main and health sciences campuses. Students read recent articles by each speaker and meet with the speaker for journal-club style discussions. This gives students the opportunity to meet neuroscientists at Temple and from throughout the country. The Neuroscience Specialization will be awarded to students in the following departments: Biology, Pharmacology, Physical Therapy, and Psychology.
 
-Graduate students are admitted to the Program after they have been accepted into a Ph.D. program based on an interest to pursue their research in the neuroscience area. Any graduate student in a Ph.D. program at Temple University can participate in the Neuroscience Program.  Upon successful completion of their departmental and Neuroscience Program requirements, students receive a PhD degree in the discipline represented by their department with a Specialization in Neuroscience
+Graduate students are admitted to the Program after they have been accepted into a PhD program based on an interest to pursue their research in the neuroscience area. Any graduate student in a PhD program at Temple University can participate in the Neuroscience Program.  Upon successful completion of their departmental and Neuroscience Program requirements, students receive a PhD degree in the discipline represented by their department with a Specialization in Neuroscience
 
 ### Contact
 
@@ -157,13 +157,11 @@ To be a graduate student in the Neuroscience Program, a student must fulfill the
 - Meet all the obligations of the student's participating department.
 - Have one member of the Neuroscience Program on their dissertation committee.
 - Attend and participate at the Journal Club and seminars of the Neuroscience Program for 4 semesters.
-- Take two course in each of the Neuroscience Specialization Areas:
--- Behavioral /Cognitive / Systems Neuroscience
--- Cellular/Molecular Neuroscience
+- Take two course in each of the neuroscience specialization areas: behavioral/cognitive/ systems neuroscience and cellular/molecular neuroscience
 
 The following is a listing of examples of key courses.
 
-**Courses In Behavioral /Cognitive / Systems Neuroscience**
+**Courses In Behavioral/Cognitive/Systems Neuroscience**
 
 - BIOL 5452 - Systems Neuroscience
 - BIOL 5454 - Neurological Basis of Animal Behavior
