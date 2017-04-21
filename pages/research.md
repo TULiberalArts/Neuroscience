@@ -24,10 +24,11 @@ The program requires the student to spend 3-4 hours per credit per week of a 14-
 Independent Study is available in the laboratories of neuroscience faculty members at Temple University. Independent study is very popular and students should start the process of finding a lab well in advance.
 
 In most cases, students start a year in advance. Once a lab has been identified as an area of interest, the student must contact that research faculty member to see about openings, requirements, start dates, etc.  Each laboratory program is unique and has different academic requirements. Some students will be required to complete a final paper, some students will be responsible for a literature search and all students are encouraged to submit a poster for the spring or fall poster session.
-For additional support, contact the [Student Services Specialist](tuf39500@temple.edu).
+
+For additional support, contact the Student Services Specialist at [Neuro@temple.edu](mailto:Neuro@temple.edu).
 
 ### Registering for Independent Study
 
-In order to register for Independent Study, you will need a Special Course Approval form. These forms can be found on this website under student resources Special Course Form or they can be found at the Neuroscience Advising office in room 638 Weiss Hall.
+In order to register for Independent Study, you need a Special Course Approval form. These forms can be found on this website under student resources Special Course Form or they can be found at the Neuroscience Advising office in room 638 Weiss Hall.
 
 Students must complete all information on the form and have the research mentor sign the form. The form should then be returned to the Neuroscience Advising office in room 638 Weiss. The form can be left under the door if there is no one available to help you. Once you are registered, you will notice that Dr. Parikh is the instructor. Dr. Parikh is responsible for the administration of the course. You will go to you laboratory and work with your mentor according to your agreement. At the end of the semester, your mentor will be contacted for a grade.
