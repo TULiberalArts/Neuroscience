@@ -6,6 +6,10 @@ published: true
 ---
 Our Neuroscience majors gets hands-on experience. You'll have the opportunity to participate in ongoing research in our faculty-run laboratories and get course credit for real-world internships.
 
+## Internships
+
+Internships are excellent ways to capitalize on your experience in the field of neuroscience. Please contact [Neuro@Temple.edu](mailto:Neuro@Temple.edu) with any questions.
+
 Recent internship placements include the following:
 
 - Abington Hospital in the Neurovascular/Neurology Department
