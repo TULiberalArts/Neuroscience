@@ -25,13 +25,7 @@ Sarah McLaughlin<br/>
 [(215)204-3441](tel:2152043441)<br/>
 [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 
-## Internships
-
-Internships are excellent ways to capitalize on your experience in the field of neuroscience. Please contact [Neuro@Temple.edu](mailto:Neuro@Temple.edu) with any questions after viewing the opportunities listed below.
-
-**NEED CURRENT INTERNSHIP CONTENT**
-
-### Additional Resources
+## Additional Resources
 
 - [American Academy of Neurology](http://www.aan.com) 
 - [American Neurologic Association](http://www.aneuroa.org) 
