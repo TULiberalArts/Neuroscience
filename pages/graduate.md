@@ -93,22 +93,22 @@ WE ONLY ACCEPT ONLINE APPLICATIONS. TO APPLY ONLINE, FOLLOW THE INSTRUCTIONS BEL
 
 PLEASE ALSO NOTE OUR ADMISSIONS REQUIREMENTS.
 
-1. Complete the initial application to the Graduate School at Temple.
-a. Visit http://www.temple.edu/apply/common/appcheck.asp and follow the directions to apply online.
-b. After filling in your personal information you will be asked to select a program. Select “Neuroscience/MS”
-c. Complete the application, submit, and pay electronically. Print out a copy of the application for your files.
+1. Complete the initial application to the Graduate School at Temple.<br>
+- Visit http://www.temple.edu/apply/common/appcheck.asp and follow the directions to apply online.
+- After filling in your personal information you will be asked to select a program. Select “Neuroscience/MS”
+- Complete the application, submit, and pay electronically. Print out a copy of the application for your files.
 
-2. Return to this page to prepare additional application materials.
-a. Download and complete the two page Neuroscience Master's Data Sheet that is required to accompany the Temple University Application for Graduate Study.
-b. Please prepare a resumé (also called a CV in academic circles).
-c. Have available the Statement of Goals from your on-line application.
+2. Return to this page to prepare additional application materials.<br>
+- Download and complete the two page Neuroscience Master's Data Sheet that is required to accompany the Temple University Application for Graduate Study.
+- Please prepare a resumé (also called a CV in academic circles).
+- Have available the Statement of Goals from your on-line application.
 
-3. Submitting additional materials for your application.
-a. Request three confidential letters of recommendation from college/university faculty who are familiar with your academic abilities.
+3. Submitting additional materials for your application. <br>
+- Request three confidential letters of recommendation from college/university faculty who are familiar with your academic abilities.
 
-Please note that if evaluators send letters directly to the Student Services Specialist electronically, this replaces the stipulation on the graduate school application instructions that paper reference reports for Neuroscience MS applicants should be returned sealed to the applicant, who will then forward them with all other application materials in one complete package to the department. If letters of references are sent electronically by the evaluator, you DO NOT need to have paper copies of the letters mailed to you or send them via postal mail to the department.  You can ignore instructions, including those on the Temple University Graduate School site, that say otherwise.  All we need are letters sent directly to the Graduate Coordinator.  In addition, we do not have any other forms for your letter writers to fill out.  All we require is a letter.  There is no summary rating or evaluation form.
+_Please note that if evaluators send letters directly to the Student Services Specialist electronically, this replaces the stipulation on the graduate school application instructions that paper reference reports for Neuroscience MS applicants should be returned sealed to the applicant, who will then forward them with all other application materials in one complete package to the department. If letters of references are sent electronically by the evaluator, you DO NOT need to have paper copies of the letters mailed to you or send them via postal mail to the department.  You can ignore instructions, including those on the Temple University Graduate School site, that say otherwise.  All we need are letters sent directly to the Graduate Coordinator.  In addition, we do not have any other forms for your letter writers to fill out.  All we require is a letter.  There is no summary rating or evaluation form._
 
-b. Have your official Transcripts Sent to Temple University Neuroscience Program. Request that transcripts from all your undergraduate institutions (including those from which you did not receive a degree) be sent to Temple University Neuroscience Program.  If you have completed graduate credits, transcripts from those institutions should also be sent to us. All official transcripts should be sent to the following address:
+- Have your official Transcripts Sent to Temple University Neuroscience Program. Request that transcripts from all your undergraduate institutions (including those from which you did not receive a degree) be sent to Temple University Neuroscience Program.  If you have completed graduate credits, transcripts from those institutions should also be sent to us. All official transcripts should be sent to the following address:
 
 Student Services Specialist<br>
 Neuroscience Program<br/>
@@ -117,7 +117,8 @@ Sarah Mclaughlin<br/>
 1701 North 13th Street<br/>
 Philadelphia, PA 19122-6085<br/>
 
-c.  In addition to the copies of your transcripts, please send electronic copies of the the following required application materials to the Student Services Specialist:
+-  In addition to the copies of your transcripts, please send electronic copies of the the following required application materials to the Student Services Specialist: 
+
 - The completed Neuroscience Master's Data Sheet
 - Your Statement of Goals
 - Your CV
