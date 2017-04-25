@@ -8,7 +8,7 @@ feature-body: >-
   Our neuroscience program teaches students to explore neural and brain function
   at multiple levels in a rapidly growing field. Our students study the neural
   basis of addiction, developmental disorders, ADHD, depression, anxiety, 
-  age-related disorders, and much more. Our program enables students to pursue a
+  age-related disorders and much more. Our program enables students to pursue a
   curriculum in several departments, colleges and schools at Temple. It
   encompasses a broad domain that ranges from molecular genetics and neural
   development, to brain processes involved in cognition and emotion, to
