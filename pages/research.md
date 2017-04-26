@@ -13,6 +13,10 @@ One means of making the sum greater than the parts is by facilitating interactio
 
 The Center for Neuroscience supports research by providing core staff to manage resources. Among the centrally shared resources is a Patient Registry/Database created and housed in the Center to facilitate access to unique patient populations and foster interactions between basic and clinical neuroscience.
 
+## Undergraduate Wet Lab
+
+Our neuroscience majors have the opportunity to use our undergraduate wet lab. Wet lab work is a vital component of research at the graduate and faculty level. Our undergraduates get a head start by getting wet lab experience early.
+
 ## Independent Study
 
 Neuroscience majors are encouraged to gain first-hand experience with research through Independent Study. Students will carry out supervised neuroscience research by observing and participating in ongoing research in a laboratory environment.
