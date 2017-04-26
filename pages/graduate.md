@@ -24,7 +24,7 @@ There are 3 areas of study in the Neuroscience Master's Program:
 - Behavioral Neuroscience
 - Motor Neuroscience and Rehabilitation
 
-**For more information on our affiliated faculty's research in these three areas, please visit our [faculty page](http://www.cla.temple.edu/neuroscience/faculty-2/).**
+**For more information on our affiliated faculty's research in these three areas, please visit our [faculty page](/neuroscience/faculty).**
 
 ### Master's Project
 
