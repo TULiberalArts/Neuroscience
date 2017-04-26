@@ -104,10 +104,7 @@ b. Please prepare a resumé (also called a CV in academic circles).<br>
 c. Have available the Statement of Goals from your on-line application.
 
 3. Submitting additional materials for your application. <br>
-a. Request three confidential letters of recommendation from college/university faculty who are familiar with your academic abilities.<br>
-
-_Please note that if evaluators send letters directly to the Student Services Specialist electronically, this replaces the stipulation on the graduate school application instructions that paper reference reports for Neuroscience MS applicants should be returned sealed to the applicant, who will then forward them with all other application materials in one complete package to the department. If letters of references are sent electronically by the evaluator, you DO NOT need to have paper copies of the letters mailed to you or send them via postal mail to the department.  You can ignore instructions, including those on the Temple University Graduate School site, that say otherwise.  All we need are letters sent directly to the Graduate Coordinator.  In addition, we do not have any other forms for your letter writers to fill out.  All we require is a letter.  There is no summary rating or evaluation form._
-
+a. Request three confidential letters of recommendation from college/university faculty who are familiar with your academic abilities. _Please note that if evaluators send letters directly to the Student Services Specialist electronically, this replaces the stipulation on the graduate school application instructions that paper reference reports for Neuroscience MS applicants should be returned sealed to the applicant, who will then forward them with all other application materials in one complete package to the department. If letters of references are sent electronically by the evaluator, you DO NOT need to have paper copies of the letters mailed to you or send them via postal mail to the department.  You can ignore instructions, including those on the Temple University Graduate School site, that say otherwise.  All we need are letters sent directly to the Graduate Coordinator.  In addition, we do not have any other forms for your letter writers to fill out.  All we require is a letter.  There is no summary rating or evaluation form._ <br>
 b. Have your official Transcripts Sent to Temple University Neuroscience Program. Request that transcripts from all your undergraduate institutions (including those from which you did not receive a degree) be sent to Temple University Neuroscience Program.  If you have completed graduate credits, transcripts from those institutions should also be sent to us. All official transcripts should be sent to the following address:
 
 Student Services Specialist<br>
@@ -117,17 +114,8 @@ Sarah Mclaughlin<br/>
 1701 North 13th Street<br/>
 Philadelphia, PA 19122-6085<br/>
 
-c.  In addition to the copies of your transcripts, please send electronic copies of the the following required application materials to the Student Services Specialist: 
-
-1. The completed Neuroscience Master's Data Sheet <br>
-2. Your Statement of Goals<br>
-3. Your CV<br>
-
-The documents just listed are separate from your Temple application, and must be submitted directly to the Graduate Coordinator if we are to receive them.
-
-d. Have your test scores sent to Temple. 
-
-Have your English proficiency scores (if required) sent to Temple University electronically by ETS; the Temple University code is 2906. The Neuroscience MS program does not require the GRE for admission.
+c.  In addition to the copies of your transcripts, please send electronic copies of the the following required application materials to the Student Services Specialist: the completed neuroscience master's data sheet, your statement of goals, and your CV. These documentsare separate from your Temple application, and must be submitted directly to the Graduate Coordinator if we are to receive them.<br>
+d. Have your test scores sent to Temple. Have your English proficiency scores (if required) sent to Temple University electronically by ETS; the Temple University code is 2906. The Neuroscience MS program does not require the GRE for admission.
 
 ## PhD Specialization in Neuroscience
 
