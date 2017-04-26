@@ -6,13 +6,13 @@ published: true
 ---
 ## Academic Offerings at a Glance
 
-- [MS in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
-- [PhD Specialization in Neuroscience](http://www.cla.temple.edu/neuroscience/graduate-specialization/graduate-program/)
+- [MS in Neuroscience: Systems, Behavior and Plasticity](#ms-in-neuroscience)
+- [PhD Specialization in Neuroscience](#phd-specialization-in-neuroscience)
 - [4+1 Neuroscience 5-Year Master’s Program](/neuroscience/undergraduate/#program-description)
 
-## MS in Neuroscience: Systems, Behavior and Plasticity 
+## MS in Neuroscience
 
-Our MS provides highly advanced training and faculty-mentored research in a rapidly evolving field with practical applications in careers ranging from health care to public policy and economics.
+Our [MS in Neuroscience: Systems, Behavior and Plasticity](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/) provides highly advanced training and faculty-mentored research in a rapidly evolving field with practical applications in careers ranging from health care to public policy and economics.
 
 This innovative program was developed by Temple University’s Neuroscience faculty, consisting of top faculty from the Departments of Psychology, Physical Therapy, and Kinesiology, to help qualified students gain core expertise in specific areas of neuroscience — including molecular, cellular, systems and behavioral neuroscience.
 
@@ -129,11 +129,11 @@ The documents just listed are separate from your Temple application, and must be
 
 Have your English proficiency scores (if required) sent to Temple University electronically by ETS; the Temple University code is 2906. The Neuroscience MS program does not require the GRE for admission.
 
-## The Neuroscience Specialization
+## PhD Specialization in Neuroscience
 
 ### Graduate Specialization Overview
 
-In 1998 at Temple University, a university-wide interdisciplinary Program in Neuroscience was approved and funded by the Provost’s Office to facilitate multidisciplinary interactions among faculty interested in neuroscience and to provide a Specialization in Neuroscience both at the graduate and undergraduate levels. The graduate program continues to be active. A Neuroscience Seminar Series includes Temple University faculty alternating as presenters with neuroscience faculty members invited from other universities. To facilitate university-wide participation, lectures alternate between the main and health sciences campuses. Students read recent articles by each speaker and meet with the speaker for journal-club style discussions. This gives students the opportunity to meet neuroscientists at Temple and from throughout the country. The Neuroscience Specialization will be awarded to students in the following departments: Biology, Pharmacology, Physical Therapy, and Psychology.
+In 1998 at Temple University, a university-wide [interdisciplinary program in neuroscience](http://www.cla.temple.edu/neuroscience/graduate-specialization/graduate-program/) was approved and funded by the Provost’s Office to facilitate multidisciplinary interactions among faculty interested in neuroscience and to provide a Specialization in Neuroscience both at the graduate and undergraduate levels. The graduate program continues to be active. A Neuroscience Seminar Series includes Temple University faculty alternating as presenters with neuroscience faculty members invited from other universities. To facilitate university-wide participation, lectures alternate between the main and health sciences campuses. Students read recent articles by each speaker and meet with the speaker for journal-club style discussions. This gives students the opportunity to meet neuroscientists at Temple and from throughout the country. The Neuroscience Specialization will be awarded to students in the following departments: Biology, Pharmacology, Physical Therapy, and Psychology.
 
 Graduate students are admitted to the Program after they have been accepted into a PhD program based on an interest to pursue their research in the neuroscience area. Any graduate student in a PhD program at Temple University can participate in the Neuroscience Program.  Upon successful completion of their departmental and Neuroscience Program requirements, students receive a PhD degree in the discipline represented by their department with a Specialization in Neuroscience
 
