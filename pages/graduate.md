@@ -94,9 +94,9 @@ WE ONLY ACCEPT ONLINE APPLICATIONS. TO APPLY ONLINE, FOLLOW THE INSTRUCTIONS BEL
 PLEASE ALSO NOTE OUR ADMISSIONS REQUIREMENTS.
 
 1. Complete the initial application to the Graduate School at Temple.<br>
-- Visit http://www.temple.edu/apply/common/appcheck.asp and follow the directions to apply online.
-- After filling in your personal information you will be asked to select a program. Select “Neuroscience/MS”
-- Complete the application, submit, and pay electronically. Print out a copy of the application for your files.
+a. Visit http://www.temple.edu/apply/common/appcheck.asp and follow the directions to apply online.
+b. After filling in your personal information you will be asked to select a program. Select “Neuroscience/MS”
+c. Complete the application, submit, and pay electronically. Print out a copy of the application for your files.
 
 2. Return to this page to prepare additional application materials.<br>
 - Download and complete the two page Neuroscience Master's Data Sheet that is required to accompany the Temple University Application for Graduate Study.
