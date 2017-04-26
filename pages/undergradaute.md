@@ -19,7 +19,7 @@ Classes are taught by full-time faculty with degrees in neuroscience and extensi
 
 ## Academic Offerings at a Glance
 
-- [BS in Neuroscience](#BS-in-Neuroscience)
+- [BS in Neuroscience](#bs-in-neuroscience)
 - [Minor in Neuroscience Research](#minor-in-neuroscience-research)
 - [4+1 Neuroscience 5-Year Master’s Program](#program-description)
 
@@ -31,7 +31,7 @@ A number of departments throughout Temple University include research and teachi
 
 ## Minor in Neuroscience Research
 
-The [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/)expands opportunities for Temple students to get research experience and to become more competitive in their applications to graduate and professional schools. The required courses in the Neuroscience Research Minor focus on basic neuroscience, cellular and molecular neuroscience, and neuroscientific techniques. Because of some overlap in coursework, the students must choose to minor in either the Neuroscience Research or the Cognitive Neuroscience minor.
+The [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/) expands opportunities for Temple students to get research experience and to become more competitive in their applications to graduate and professional schools. The required courses in the Neuroscience Research Minor focus on basic neuroscience, cellular and molecular neuroscience, and neuroscientific techniques. Because of some overlap in coursework, the students must choose to minor in either the Neuroscience Research or the Cognitive Neuroscience minor.
 
 ## 4+1 Neuroscience 5-Year Master’s Program 
 
