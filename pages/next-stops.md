@@ -14,9 +14,9 @@ Recent internship placements include the following:
 
 - Abington Hospital in the Neurovascular/Neurology Department
 - Shriners Hospitals Pediatric Research Center, Temple School of Medicine
-- Brain Balance Achievement Center, Glassboro NJ
+- Brain Balance Achievement Center, Glassboro, NJ
 - Center for Autism Research, Children’s Hospital of Philadelphia
-- Center for Mind Body Awareness, Washington DC
+- Center for Mind Body Awareness, Washington, DC
 - Department of Neurobiology, Drexel College of Medicine
 - Division of Neurology, Children’s Hospital of Philadelphia
 - Department of Biomedical Science, Jefferson University
