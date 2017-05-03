@@ -102,23 +102,37 @@ b. After filling in your personal information you will be asked to select a prog
 c. Complete the application, submit, and pay electronically. Print out a copy of the application for your files.<br>
 
 2. Return to this page to prepare additional application materials.<br>
-a. Download and complete the two page Neuroscience Master's Data Sheet that is required to accompany the Temple University Application for Graduate Study.<br>
+a. Download and complete the two page [Neuroscience Master's Data Sheet](http://www.cla.temple.edu/neuroscience/files/2017/04/Temple-Neuroscience-Masters-Program-Application-1.pdf) that is required to accompany the Temple University Application for Graduate Study.<br>
 b. Please prepare a resumé (also called a CV in academic circles).<br>
 c. Have available the Statement of Goals from your on-line application.
 
 3. Submitting additional materials for your application. <br>
-a. Request three confidential letters of recommendation from college/university faculty who are familiar with your academic abilities. _Please note that if evaluators send letters directly to the Student Services Specialist electronically, this replaces the stipulation on the graduate school application instructions that paper reference reports for Neuroscience MS applicants should be returned sealed to the applicant, who will then forward them with all other application materials in one complete package to the department. If letters of references are sent electronically by the evaluator, you DO NOT need to have paper copies of the letters mailed to you or send them via postal mail to the department.  You can ignore instructions, including those on the Temple University Graduate School site, that say otherwise.  All we need are letters sent directly to the Graduate Coordinator.  In addition, we do not have any other forms for your letter writers to fill out.  All we require is a letter.  There is no summary rating or evaluation form._ <br>
+a. Request three confidential letters of recommendation from college/university faculty who are familiar with your academic abilities. _Please note that if evaluators send letters directly to the [Student Services Specialist](mailto:smclaughlin@temple.edu) electronically, this replaces the stipulation on the graduate school application instructions that paper reference reports for Neuroscience MS applicants should be returned sealed to the applicant, who will then forward them with all other application materials in one complete package to the department. If letters of references are sent electronically by the evaluator, you DO NOT need to have paper copies of the letters mailed to you or send them via postal mail to the department.  You can ignore instructions, including those on the Temple University Graduate School site, that say otherwise.  All we need are letters sent directly to the Graduate Coordinator.  In addition, we do not have any other forms for your letter writers to fill out.  All we require is a letter.  There is no summary rating or evaluation form._ <br>
 b. Have your official transcripts sent to Temple University Neuroscience Program. Request that transcripts from all your undergraduate institutions (including those from which you did not receive a degree) be sent to Temple University Neuroscience Program.  If you have completed graduate credits, transcripts from those institutions should also be sent to us. All official transcripts should be sent to the student services specialist, address located above.<br>
-c.  In addition to the copies of your transcripts, please send electronic copies of the the following required application materials to the Student Services Specialist: the completed neuroscience master's data sheet, your statement of goals, and your CV. These documentsare separate from your Temple application, and must be submitted directly to the Graduate Coordinator if we are to receive them.<br>
+c.  In addition to the copies of your transcripts, please send electronic copies of the the following required application materials to the [Student Services Specialist](mailto:smclaughlin@temple.edu): the completed neuroscience master's data sheet, your statement of goals, and your CV. These documentsare separate from your Temple application, and must be submitted directly to the Graduate Coordinator if we are to receive them.<br>
 d. Have your test scores sent to Temple. Have your English proficiency scores (if required) sent to Temple University electronically by ETS; the Temple University code is 2906. The Neuroscience MS program does not require the GRE for admission.
+
+## Certificate in Neuroscience
+
+Just recently approved, the Certificate in Neuroscience is for Ph.D. students interested in studying neuroscience in any department of the College of Liberal Arts, the College of Health Professions, College of Engineering, College of Science and Technology, and School of Medicine OTHER than Biology, Pharmacology, Physical Therapy, and Psychology, which for historical reasons are covered in the Specialization above. Upon successful completion of their departmental and Neuroscience Program requirements, students receive a Ph.D. degree in the discipline represented by their department with a Certificate in Neuroscience.
+
+To receive a Certificate in Neuroscience a student must fulfill the following requirements:
+
+1. Be a graduate student in good standing in a Temple University Ph.D. program.
+2. Meet all the obligations of the student’s participating department.
+3. Have one member of the Neuroscience Program on their dissertation committee.
+4. Attend and participate in the Seminars/Journal Clubs of the Neuroscience Program for 4 semesters by enrolling for 1 credit each of 4 semesters.
+5. Take two courses in each of the Neuroscience Specialization Areas:
+- Behavioral /Cognitive / Systems Neuroscience
+- Cellular/Molecular Neuroscience
 
 ## PhD Specialization in Neuroscience
 
+In 1998 at Temple University, a university-wide interdisciplinary program in neuroscience was approved and funded by the Provost’s Office to facilitate multidisciplinary interactions among faculty interested in neuroscience and to provide a Specialization in Neuroscience both at the graduate and undergraduate levels. The graduate program continues to be active. A Neuroscience Seminar Series includes Temple University faculty alternating as presenters with neuroscience faculty members invited from other universities. To facilitate university-wide participation, lectures alternate between the main and health sciences campuses. Students read recent articles by each speaker and meet with the speaker for journal-club style discussions. This gives students the opportunity to meet neuroscientists at Temple and from throughout the country. The Neuroscience Specialization will be awarded to students in the following departments: Biology, Pharmacology, Physical Therapy, and Psychology.
+
 ### Graduate Specialization Overview
 
-In 1998 at Temple University, a university-wide [interdisciplinary program in neuroscience](http://www.cla.temple.edu/neuroscience/graduate-specialization/graduate-program/) was approved and funded by the Provost’s Office to facilitate multidisciplinary interactions among faculty interested in neuroscience and to provide a Specialization in Neuroscience both at the graduate and undergraduate levels. The graduate program continues to be active. A Neuroscience Seminar Series includes Temple University faculty alternating as presenters with neuroscience faculty members invited from other universities. To facilitate university-wide participation, lectures alternate between the main and health sciences campuses. Students read recent articles by each speaker and meet with the speaker for journal-club style discussions. This gives students the opportunity to meet neuroscientists at Temple and from throughout the country. The Neuroscience Specialization will be awarded to students in the following departments: Biology, Pharmacology, Physical Therapy, and Psychology.
-
-Graduate students are admitted to the Program after they have been accepted into a PhD program based on an interest to pursue their research in the neuroscience area. Any graduate student in a PhD program at Temple University can participate in the Neuroscience Program.  Upon successful completion of their departmental and Neuroscience Program requirements, students receive a PhD degree in the discipline represented by their department with a Specialization in Neuroscience
+Graduate students are admitted to the Program after they have been accepted into a PhD program based on an interest to pursue their research in the neuroscience area. Any graduate student in a PhD program at Temple University can participate in the Neuroscience Program. Upon successful completion of their departmental and Neuroscience Program requirements, students receive a PhD degree in the discipline represented by their department with a Specialization in Neuroscience. To fulfill the requirements of the Program, students must **pass courses in 2 areas of neuroscience** as well as **participate in the Neuroscience Program’s Seminars and Journal Clubs for four semesters.**
 
 ### Contact
 
@@ -141,7 +155,7 @@ To be a graduate student in the Neuroscience Program, a student must fulfill the
 - Meet all the obligations of the student's participating department.
 - Have one member of the Neuroscience Program on their dissertation committee.
 - Attend and participate at the Journal Club and seminars of the Neuroscience Program for 4 semesters.
-- Take two course in each of the neuroscience specialization areas: behavioral/cognitive/ systems neuroscience and cellular/molecular neuroscience
+- Take two course in each of the neuroscience specialization areas: behavioral/cognitive/ systems neuroscience and cellular/molecular neuroscience.
 
 The following is a listing of examples of key courses.
 
