@@ -95,8 +95,58 @@ Philadelphia, PA 19122<br/>
 Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 
 ## Independent Study in Neuroscience
-Students majoring in Neuroscience are strongly encouraged to participate in research by taking courses in Independent Study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator](http://www.cla.temple.edu/neuroscience/contact/) and [Program Director](http://www.cla.temple.edu/neuroscience/contact/) will work with students to identify these independent study opportunities.
+Students majoring in Neuroscience are strongly encouraged to participate in research by taking courses in Independent Study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator](mailto:smclaughlin@temple.edu) and [Program Director](mailto:vinay.parikh@temple.edu) will work with students to identify these independent study opportunities.
 
 ## Graduating with Distinction in Neuroscience
 
-Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduating with distinction can be achieved by maintaining a grade point average 3.0 of better in all neuroscience courses, completing two semesters of independent study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and students.  Students MUST complete an Application for Distinction. For more guidelines, refer to [cla.temple.edu/neuroscience/distinction-guidelines](http://www.cla.temple.edu/neuroscience/distinction-guidelines/).
+**Majors in Neuroscience:** Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduating with distinction can be achieved by maintaining a grade point average 3.0 of better in all neuroscience courses, completing two semesters of independent study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and students.  Students MUST complete an Application for Distinction.
+
+### Distinction Guidelines
+
+Distinction in Neuroscience: Systems, Behavior, Plasticity, have the opportunity to be awarded departmental distinction upon graduation. Graduation with Distinction can be achieved by:
+
+- Maintaining a Grade Point Average 3.0 of better in all Neuroscience (NSI) Courses,
+- Completing two semesters of Independent Study in Neuroscience (NSI 4182 & 4282) with an A- or better
+- Successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and student
+
+**Distinction Paper** 
+
+The Distinction Paper should follow the _[Journal of Neuroscience](http://www.jneurosci.org/site/misc/ifa_rm.xhtml)_ format, and should be between 8 and 15 pages long.
+
+Distinction papers must be signed by the student’s Independent Study Mentor and then submitted to Dr. Parikh for approval, with a copy to the [Student Services Coordinator](mailto:mailto:smclaughlin@temple.edu)
+
+**Poster Presentation**
+
+If you are submitting a poster for distinction, please be sure to indicate that in an email to the Student Services Coordinator prior to the presentation.  Distinction posters may be submitted for  the Spring poster sessions.
+
+*CLA Neuroscience will host a Spring poster session each year, but students graduating PRIOR to the Spring semester and therefore presenting in the Fall must do so through an outside organization.
+
+**Preparing Effective Posters**
+
+- An effective poster is self-contained and self-explanatory. Viewers can proceed on their own while leaving the author free to discuss points raised in inquiry.
+- The poster session offers a more intimate forum for discussion, but discussion becomes difficult if the author must explain the poster to a succession of viewers. Time spent at a poster presentation is determined by the viewer, not the author.
+- An effective poster balances figures and texts and is not a page-by-page printout of a journal paper or a slide show.
+
+**Planning and Layout**
+
+Your poster should be approximately 36″ x 54″.  Avoid reflective, plastic-coated paper.
+
+**Title**
+
+- Prepare a banner for the top of the poster indicating the abstract title, author(s), affiliation(s), and the session number. Use lettering at least one-inch high.Illustrations
+- Design figures for viewing from a distance and use clear, visible graphics and large type. Colors are effective if used sparingly; use dark colors on white or pale backgrounds and light colors on dark backgrounds. Figures should illustrate   no more than one or two major points.
+- simple figures are unnecessary. Make clear main points, but include detail for the aficionado. Indicate illustration sequences with numbers or letters at least one inch high. (Omit “Fig.” or “Figure” – this is unnecessary and occupies excess space).
+
+**Text**
+
+Each figure or table should have a heading of one or two lines in very large type stating the “take-home” message. Provide additional essential information below in a legend set in 16 point or larger type
+
+**Content**
+
+- Minimize narrative.
+- Integrate text that would normally appear in the body (Results and Discussion) of a manuscript in figure legends. Concisely describe not only the content of the figure, but also the derived conclusions.
+- Place brief details of methodology at the end of each legend.
+- Use large type in short, separated paragraphs with unjustified (ragged right) margins.
+- Numbered or bulleted lists are effective ways to convey a series of points. Do not set entire paragraphs in uppercase (all capitals) or boldface type.
+- Place an introduction at the upper left and a conclusion at the lower right, both in large type. It is rarely necessary to post a copy of the abstract.
+
