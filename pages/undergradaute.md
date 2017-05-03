@@ -111,7 +111,7 @@ Distinction in Neuroscience: Systems, Behavior, Plasticity, have the opportunity
 
 **Distinction Paper** 
 
-The Distinction Paper should follow the _[Journal of Neuroscience](http://www.jneurosci.org/site/misc/ifa_rm.xhtml)_ format, and should be between 8 and 15 pages long.
+The Distinction Paper should follow the _[Journal of Neuroscience](http://www.jneurosci.org/)_ format, and should be between 8 and 15 pages long.
 
 Distinction papers must be signed by the student’s Independent Study Mentor and then submitted to Dr. Parikh for approval, with a copy to the [Student Services Coordinator](mailto:mailto:smclaughlin@temple.edu)
 
@@ -149,4 +149,3 @@ Each figure or table should have a heading of one or two lines in very large typ
 - Use large type in short, separated paragraphs with unjustified (ragged right) margins.
 - Numbered or bulleted lists are effective ways to convey a series of points. Do not set entire paragraphs in uppercase (all capitals) or boldface type.
 - Place an introduction at the upper left and a conclusion at the lower right, both in large type. It is rarely necessary to post a copy of the abstract.
-
