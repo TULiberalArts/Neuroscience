@@ -8,7 +8,7 @@ baseurl: /neuroscience
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Temple’s Neuroscience program teaches students to explore neural and brain function at multiple levels in a rapidly growing field. Our students study the neural basis of addiction, developmental disorders, ADHD, depression, anxiety and age-related disorders, among other fields.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple, neuroscience
 
@@ -18,8 +18,8 @@ address:
   room:
   street: 1701 North 13th Street
   city: Philadelphia, PA 19122
-  email: neuroscience@temple.edu
-  phone: 2152043441
+  email: <a href="mailto:neuroscience@temple.edu">neuroscience@temple.edu</a>
+  phone: 215-204-3441
 
 # Social Media
 # Put in only the username unless otherwise noted
