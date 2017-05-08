@@ -95,7 +95,7 @@ Philadelphia, PA 19122<br/>
 Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 
 ## Independent Study in Neuroscience
-Students majoring in Neuroscience are strongly encouraged to participate in research by taking courses in Independent Study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator](mailto:smclaughlin@temple.edu) and [Program Director](mailto:vinay.parikh@temple.edu) will work with students to identify these independent study opportunities.
+Students majoring in Neuroscience are strongly encouraged to participate in research by taking courses in Independent Study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator](mailto:smclaughlin@temple.edu) and [Program Director](mailto:vinay.parikh@temple.edu) will work with students to identify these independent study opportunities. More detailed information is available under [research](/neuroscience/research/#independent-study).
 
 ## Graduating with Distinction in Neuroscience
 
