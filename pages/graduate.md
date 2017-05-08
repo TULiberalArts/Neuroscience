@@ -199,6 +199,6 @@ The following is a listing of examples of key courses.
 
 - PSY 8130 - Topical Seminars in BCS
 - PSY 8310 - Topical Seminar in Cognitive Psychology
-- PSYCH 8420 - Topical Seminars in Clinical Psychology
+- PSY 8420 - Topical Seminars in Clinical Psychology
 - BIOL 8510 - Seminar in Neuroscience
 - BMSC 8810 - Special Topics in Neuroscience
