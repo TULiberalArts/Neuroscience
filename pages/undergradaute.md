@@ -99,23 +99,15 @@ Students majoring in Neuroscience are strongly encouraged to participate in rese
 
 ## Graduating with Distinction in Neuroscience
 
-**Majors in Neuroscience:** Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduating with distinction can be achieved by maintaining a grade point average 3.0 of better in all neuroscience courses, completing two semesters of independent study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and students.  Students MUST complete an Application for Distinction.
+Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduating with distinction can be achieved by maintaining a grade point average 3.0 of better in all neuroscience courses, completing two semesters of independent study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and students.  Students MUST complete an Application for Distinction.
 
-### Distinction Guidelines
-
-Distinction in Neuroscience: Systems, Behavior, Plasticity, have the opportunity to be awarded departmental distinction upon graduation. Graduation with Distinction can be achieved by:
-
-- Maintaining a Grade Point Average 3.0 of better in all Neuroscience (NSI) Courses,
-- Completing two semesters of Independent Study in Neuroscience (NSI 4182 & 4282) with an A- or better
-- Successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to Neuroscience Program faculty and student
-
-**Distinction Paper** 
+### Distinction Paper 
 
 The Distinction Paper should follow the _[Journal of Neuroscience](http://www.jneurosci.org/)_ format, and should be between 8 and 15 pages long.
 
-Distinction papers must be signed by the student’s Independent Study Mentor and then submitted to Dr. Parikh for approval, with a copy to the [Student Services Coordinator](mailto:mailto:smclaughlin@temple.edu)
+Distinction papers must be signed by the student’s Independent Study Mentor and then submitted to Dr. Parikh for approval, with a copy to the [Student Services Coordinator](mailto:mailto:smclaughlin@temple.edu).
 
-**Poster Presentation**
+### Poster Presentation
 
 If you are submitting a poster for distinction, please be sure to indicate that in an email to the Student Services Coordinator prior to the presentation.  Distinction posters may be submitted for  the Spring poster sessions.
 
@@ -132,17 +124,16 @@ If you are submitting a poster for distinction, please be sure to indicate that 
 Your poster should be approximately 36″ x 54″.  Avoid reflective, plastic-coated paper.
 
 **Title**
+- Prepare a banner for the top of the poster indicating the abstract title, author(s), affiliation(s), and the session number. Use lettering at least one-inch high.
 
-- Prepare a banner for the top of the poster indicating the abstract title, author(s), affiliation(s), and the session number. Use lettering at least one-inch high.Illustrations
-- Design figures for viewing from a distance and use clear, visible graphics and large type. Colors are effective if used sparingly; use dark colors on white or pale backgrounds and light colors on dark backgrounds. Figures should illustrate   no more than one or two major points.
-- simple figures are unnecessary. Make clear main points, but include detail for the aficionado. Indicate illustration sequences with numbers or letters at least one inch high. (Omit “Fig.” or “Figure” – this is unnecessary and occupies excess space).
+**Illustrations**
+- Design figures for viewing from a distance and use clear, visible graphics and large type. Colors are effective if used sparingly; use dark colors on white or pale backgrounds and light colors on dark backgrounds. Figures should illustrate no more than one or two major points.
+- Simple figures are unnecessary. Make clear main points, but include detail for the aficionado. Indicate illustration sequences with numbers or letters at least one inch high. (Omit “Fig.” or “Figure” – this is unnecessary and occupies excess space).
 
 **Text**
-
-Each figure or table should have a heading of one or two lines in very large type stating the “take-home” message. Provide additional essential information below in a legend set in 16 point or larger type
+- Each figure or table should have a heading of one or two lines in very large type stating the “take-home” message. Provide additional essential information below in a legend set in 16 point or larger type
 
 **Content**
-
 - Minimize narrative.
 - Integrate text that would normally appear in the body (Results and Discussion) of a manuscript in figure legends. Concisely describe not only the content of the figure, but also the derived conclusions.
 - Place brief details of methodology at the end of each legend.
