@@ -33,6 +33,6 @@ For additional support, contact the Student Services Specialist at [Neuro@temple
 
 ### Registering for Independent Study
 
-In order to register for Independent Study, you need a Special Course Approval form. These forms can be found on this website under student resources Special Course Form or they can be found at the Neuroscience Advising office in room 638 Weiss Hall.
+In order to register for Independent Study, you need a Special Course Approval form. This form can be found in the Neuroscience Advising office in room 638 Weiss Hall.
 
 Students must complete all information on the form and have the research mentor sign the form. The form should then be returned to the Neuroscience Advising office in room 638 Weiss. The form can be left under the door if there is no one available to help you. Once you are registered, you will notice that Dr. Parikh is the instructor. Dr. Parikh is responsible for the administration of the course. You will go to you laboratory and work with your mentor according to your agreement. At the end of the semester, your mentor will be contacted for a grade.
