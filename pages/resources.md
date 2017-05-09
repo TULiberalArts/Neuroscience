@@ -8,13 +8,13 @@ published: true
 ## Contact Us
 
 ### Director:
-Dr. Vinay Parikh<br/>
+Vinay Parikh<br/>
 Weiss Hall<br/>
 [(215)204-1572](tel:2152041572 )<br/>
 [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) <br/>
 
 ### Graduate Chair:
-Dr. Debra Bangasser<br/>
+Debra Bangasser<br/>
 873 Weiss Hall<br/>
 [(215)204-1015](tel:2152041015)<br/>
 [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
