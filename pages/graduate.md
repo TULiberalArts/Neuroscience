@@ -41,13 +41,13 @@ Because the brain is involved in every important human endeavor, an understandin
 **Admissions and inquiries:**
 
 Director, Neuroscience Program<br>
-Dr. Vinay Parikh<br/>
+Vinay Parikh<br/>
 Weiss Hall<br/>
 Phone: [(215)204-1572](tel:2152041572 )<br/>
 Email: [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) <br/>
 
 Associate Director, Master's Program in Neuroscience<br>
-Dr. Debra Bangasser<br/>
+Debra Bangasser<br/>
 873 Weiss Hall<br/>
 Phone: [(215)204-1015](tel:2152041015)<br/>
 Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
