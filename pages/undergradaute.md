@@ -21,6 +21,7 @@ Classes are taught by full-time faculty with degrees in neuroscience and extensi
 
 - [BS in Neuroscience](#bs-in-neuroscience)
 - [Minor in Neuroscience Research](#minor-in-neuroscience-research)
+- [Minor in Cognitive Neuroscience](#minor-in-cognitive-neuroscience)
 - [4+1 Neuroscience 5-Year Master’s Program](#program-description)
 
 ## BS in Neuroscience
@@ -31,7 +32,11 @@ A number of departments throughout Temple University include research and teachi
 
 ## Minor in Neuroscience Research
 
-The [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/) expands opportunities for Temple students to get research experience and to become more competitive in their applications to graduate and professional schools. The required courses in the Neuroscience Research Minor focus on basic neuroscience, cellular and molecular neuroscience, and neuroscientific techniques. Because of some overlap in coursework, the students must choose to minor in either the Neuroscience Research or the Cognitive Neuroscience minor.
+The [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/) expands opportunities for Temple students to get research experience and to become more competitive in their applications to graduate and professional schools. The required courses in the Neuroscience Research Minor focus on basic neuroscience, cellular and molecular neuroscience, and neuroscientific techniques. Because of some overlap in coursework, the students must choose either the Neuroscience Research or the Cognitive Neuroscience minor.
+
+## Minor in Cognitive Neuroscience
+
+The [Minor in Cognitive Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/) will strengthen the academic record of students who plan to apply for graduate programs. For example, in Psychology this minor will strengthen applicants' records for specializations such as behavioral neuroscience, clinical neuropsychology, cognitive psychology or psychophysiology. Students might also go into general neuroscience or cognitive science. Pre-med students with a cognitive neuroscience minor would present distinctive profiles to medical school admissions offices. Because of some overlap in coursework, the students must choose either the Neuroscience Research or the Cognitive Neuroscience minor.
 
 ## 4+1 Neuroscience 5-Year Master’s Program 
 
