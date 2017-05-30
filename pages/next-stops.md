@@ -8,7 +8,7 @@ Our neuroscience majors get hands-on experience. You'll have the opportunity to 
 
 ## Internships
 
-Internships are excellent ways to capitalize on your experience in the field of neuroscience. Please contact [neuro@Temple.edu](mailto:Neuro@Temple.edu) with any questions.
+Internships are excellent ways to capitalize on your experience in the field of neuroscience. Please contact [neuro@temple.edu](mailto:neuro@temple.edu) with any questions.
 
 Recent internship placements include the following:
 
