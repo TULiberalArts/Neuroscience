@@ -5,7 +5,7 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
 feature: true
-feature-title: Major or Minor in Neuroscience
+feature-title: Employ Your Mind
 feature-body: >-
   Our neuroscience program teaches students to explore neural and brain function
   at multiple levels in a rapidly growing field. Our students study the neural
