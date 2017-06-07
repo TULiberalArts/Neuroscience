@@ -22,7 +22,7 @@ Classes are taught by full-time faculty with degrees in neuroscience and extensi
 - [BS in Neuroscience](#bs-in-neuroscience)
 - [Minor in Neuroscience Research](#minor-in-neuroscience-research)
 - [Minor in Cognitive Neuroscience](#minor-in-cognitive-neuroscience)
-- [4+1 Neuroscience 5-Year Master’s Program](#program-description)
+- [+1 Neuroscience 5-Year Master’s Program](#program-description)
 
 ## BS in Neuroscience
 
@@ -38,15 +38,15 @@ The [minor in neuroscience research](http://bulletin.temple.edu/undergraduate/li
 
 The [minor in cognitive neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/) will strengthen the academic record of students who plan to apply for graduate programs. For example, in psychology this minor will strengthen applicants' records for specializations such as behavioral neuroscience, clinical neuropsychology, cognitive psychology or psychophysiology. Students might also go into general neuroscience or cognitive science. Pre-med students with a cognitive neuroscience minor present distinctive profiles to medical school admissions offices. Because of some overlap in coursework, the students must choose either the neuroscience research or the cognitive neuroscience minor.
 
-## 4+1 Neuroscience 5-Year Master’s Program
+## +1 Neuroscience 5-Year Master’s Program
 
 ### Program Description
 
-The 4+1 master in neuroscience program offers outstanding Temple University neuroscience majors the opportunity to earn both the BS and MS in neuroscience in just 5 years. Admission to the program is highly selective. The program is designed to provide a research-intensive experience, advanced coursework and professional development to students who intend to pursue doctoral studies in any of the academic neuroscience disciplines.
+The +1 master in neuroscience program offers outstanding Temple University neuroscience majors the opportunity to earn both the BS and MS in neuroscience in just 5 years. Admission to the program is highly selective. The program is designed to provide a research-intensive experience, advanced coursework and professional development to students who intend to pursue doctoral studies in any of the academic neuroscience disciplines.
 
 Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
 
-The accelerated 4+1 MS degree program consists of a maximum of 113 semester hours of undergraduate coursework, a maximum of 10 semester hours of graduate coursework to count towards both the undergraduate and the graduate degrees, and an additional 20 semester hours of graduate coursework as a graduate student. Upon successful completion of the fourth year, students receive a BS in neuroscience (using 10 credits of graduate coursework) if they have met all other degree requirements. At the end of the contiguous fifth year, students receive a MS in neuroscience. 
+The accelerated +1 MS degree program consists of a maximum of 113 semester hours of undergraduate coursework, a maximum of 10 semester hours of graduate coursework to count towards both the undergraduate and the graduate degrees, and an additional 20 semester hours of graduate coursework as a graduate student. Upon successful completion of the fourth year, students receive a BS in neuroscience (using 10 credits of graduate coursework) if they have met all other degree requirements. At the end of the contiguous fifth year, students receive a MS in neuroscience. 
 
 ### Admission Requirements
 
@@ -65,7 +65,7 @@ Assemble and submit the following materials as email attachments to [Neuro@Templ
 All materials must be submitted in a single email.
 
 - Unofficial undergraduate transcripts
-- [4+1 Application Form](http://www.cla.temple.edu/neuroscience/files/2017/03/Application.docx) (form will download)
+- [+1 Application Form](http://www.cla.temple.edu/neuroscience/files/2017/03/Application.docx) (form will download)
 - [Signed Faculty Sponsor Agreement](http://www.cla.temple.edu/neuroscience/files/2017/03/Faculty-Sponsor-Agreement.docx) (form will download)
 - A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience and future career goals. 
 
@@ -73,7 +73,7 @@ All materials must be submitted in a single email.
 
 Two letters of recommendation from Temple University faculty are required. At least one letter must be from a faculty member affiliated with the College of Liberal Arts neuroscience program.  Please request that faculty recommenders submit the letter as an email attachment to [Neuro@Temple.edu](mailto:Neuro@Temple.edu), with the applicant’s full name in the subject line.
 
-### 4+1 Program Contact Information
+### +1 Program Contact Information
 
 **Program Directors**
 
