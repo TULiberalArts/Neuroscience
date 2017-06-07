@@ -8,7 +8,7 @@ published: true
 
 - [MS in Neuroscience: Systems, Behavior and Plasticity](#ms-in-neuroscience)
 - [PhD Specialization in Neuroscience](#phd-specialization-in-neuroscience)
-- [4+1 Neuroscience 5-Year Master’s Program](/neuroscience/undergraduate/#program-description)
+- [+1 Neuroscience 5-Year Master’s Program](/neuroscience/undergraduate/#program-description)
 
 ## MS in Neuroscience
 
@@ -102,25 +102,22 @@ b. Have your official transcripts sent to Temple University Neuroscience Program
 c.  In addition to the copies of your transcripts, please send electronic copies of the the following required application materials to the [Student Services Specialist](mailto:smclaughlin@temple.edu): the completed neuroscience master's data sheet, your statement of goals, and your CV. These documentsare separate from your Temple application, and must be submitted directly to the Graduate Coordinator if we are to receive them.<br>
 d. Have your test scores sent to Temple. Have your English proficiency scores (if required) sent to Temple University electronically by ETS; the Temple University code is 2906. The Neuroscience MS program does not require the GRE for admission.
 
-## Certificate in Neuroscience
+## PhD Specialization in Neuroscience
 
-The certificate in neuroscience is for PhD students interested in studying neuroscience in any department of the College of Liberal Arts, the College of Health Professions, College of Engineering, College of Science and Technology, and School of Medicine other than Biology, Pharmacology, Physical Therapy, and Psychology. Upon successful completion of their departmental and neuroscience program requirements, students receive a PhD in the discipline represented by their department with a certificate in neuroscience.
+The Specialization in Neuroscience is for PhD students interested in studying neuroscience. It is open to any graduate student enrolled in a PhD program at Temple. Graduate students are admitted to the program after they have been accepted into a Temple PhD program. Upon successful completion of their departmental and neuroscience specialization requirements (see below), students receive a PhD degree in the discipline represented by their department with a specialization in neuroscience. To receive a Specialization in Neuroscience a student must fulfill the following requirements:
 
-To receive a Certificate in Neuroscience a student must fulfill the following requirements:
+1.	Be a graduate student in good standing in a Temple University PhD program.
 
-1. Be a graduate student in good standing in a Temple University PhD program.
-2. Meet all the obligations of the student’s participating department.
-3. Have one member of the neuroscience program on their dissertation committee.
-4. Attend and participate in the Seminars/Journal Clubs of the neuroscience program for four semesters by enrolling for one credit each of four semesters.
-5. Take two courses in each of the Neuroscience Specialization Areas:
+2.	Meet all the obligations of the student’s participating department.
+
+3.	Have one member of the neuroscience program on their dissertation committee.
+
+4.	Attend and participate in the Readings in Neuroscience (NSCI 9381), which is the Journal Club for the Neuroscience Seminar Series of the CLA Neuroscience program, for four semesters by enrolling for one credit each of four semesters.
+
+5.	Take two courses in each of the Neuroscience Specialization Areas:
 - Behavioral /Cognitive / Systems Neuroscience
 - Cellular/Molecular Neuroscience
 
-## PhD Specialization in Neuroscience
-
-A Neuroscience Seminar Series includes Temple University faculty alternating as presenters with neuroscience faculty members invited from other universities. To facilitate university-wide participation, lectures alternate between the main and health sciences campuses. Students read recent articles by each speaker and meet with the speaker for journal-club style discussions. This gives students the opportunity to meet neuroscientists at Temple and from throughout the country. The Neuroscience Specialization will be awarded to students in the following departments: Biology, Pharmacology, Physical Therapy, and Psychology.
-
-Graduate students are admitted to the program after they have been accepted into a PhD program based on an interest to pursue their research in the neuroscience area. Any graduate student in a PhD program at Temple University can participate in the neuroscience program. Upon successful completion of their departmental and neuroscience program requirements, students receive a PhD degree in the discipline represented by their department with a specialization in neuroscience. To fulfill the requirements of the program, students must **pass courses in two areas of neuroscience** as well as **participate in the neuroscience program’s seminars and Journal Clubs for four semesters.**
 
 ### Contact
 
