@@ -20,7 +20,7 @@ published: true
     title="Real-World Experience from Day One"
     content="Our students don't just learn from books. You'll get hands-on experience in research labs right here on campus and internship opportunities in the broader Philadelphia area."
     image=""
-    button-link="resources/#internships"
+    button-link="research"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -33,10 +33,10 @@ published: true
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Interdisciplinary Study"
+        title="Interdisciplinary Advanced Degree Options"
         content="Our interdisciplinary curriculum allows students to take coursework in multiple departments at Temple while engaging in the study of one of the most dynamic areas of science."
         image=""
-        button-link="http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/bs-neuroscience-systems-behavior-plasticity/"
+        button-link="graduate"
         button-text="Learn More" %}
       </div>
 </div>
