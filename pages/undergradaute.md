@@ -88,7 +88,7 @@ Debra Bangasser, PhD<br/>
 1701 North 13th Street<br/>
 873 Weiss Hall<br/>
 Philadelphia, PA 19122<br/>
-Office Phone: 215-204-1015<br/>
+215-204-1015<br/>
 Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
 
 **Academic Advisor**
