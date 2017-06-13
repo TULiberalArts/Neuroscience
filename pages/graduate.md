@@ -37,8 +37,6 @@ Because the brain is involved in every important human endeavor, an understandin
 
 ### Contact
 
-**Admissions and inquiries:**
-
 **Director, Neuroscience Program**<br>
 Vinay Parikh<br/>
 Weiss Hall<br/>
@@ -122,21 +120,9 @@ The Specialization in Neuroscience is for PhD students interested in studying ne
 
 ### Contact
 
-**Admissions and inquiries:**
-
-Student Services Specialist | Neuroscience Program<br/>
+**Student Services Specialist, Neuroscience Program**<br/>
 Sarah Mclaughlin<br/>
 638 Weiss Hall <br/>
 1701 N 13th Street Philadelphia, PA 19122<br/>
 Phone: [(215) 204-3441](tel:2152043441)<br/>
 Email: [Neuro@temple.edu](mailto:Neuro@temple.edu)<br/>
-
-### Requirements
-
-To be a graduate student in the neuroscience program, a student must fulfill the following requirements:
-
-- Be a graduate student in good standing in a Temple University PhD program.
-- Meet all the obligations of the student's participating department.
-- Have one member of the Neuroscience Program on their dissertation committee.
-- Attend and participate at the Journal Club and seminars of the neuroscience program for 4 semesters.
-- Take two course in each of the neuroscience specialization areas: behavioral/cognitive/ systems neuroscience and cellular/molecular neuroscience.
