@@ -4,7 +4,35 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Director:** <br/>
+  Vinay Parikh<br/>
+  427 Anderson Hall<br/>
+  [(215) 204-1572](tel:2152041572) <br/>
+  [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu )<br/>
+
+  <hr>
+
+  **Associate Director, Master’s Program in Neuroscience:** <br/>
+  Debra Bangasser<br/>
+  873 Weiss Hall<br/>
+  [(215) 204-1015](tel:2152041015)<br/>
+  [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
+
+  <hr>
+
+  **Student Services Specialist:** <br/>
+  Sarah McLaughlin<br/>
+  638 Weiss Hall<br/>
+  [(215) 204-3441](tel:2152043441)<br/>
+  [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 ---
+
 ## Academic Offerings at a Glance
 
 - [MS in Neuroscience: Systems, Behavior and Plasticity](#ms-in-neuroscience)
