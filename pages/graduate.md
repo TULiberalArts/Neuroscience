@@ -80,8 +80,6 @@ Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
 **Student Services Specialist, Neuroscience Program**<br>
 Sarah McLaughlin<br/>
 638 Weiss Hall<br/>
-1701 North 13th Street<br/>
-Philadelphia, PA 19122-6085<br/>
 Phone: [(215) 204-3441](tel:2152043441)<br/>
 Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
  
