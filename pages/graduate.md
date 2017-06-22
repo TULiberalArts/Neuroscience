@@ -62,26 +62,6 @@ On the other hand, students who are not intending bench-level research upon grad
 ### Careers
 
 Because the brain is involved in every important human endeavor, an understanding of the brain and its functions opens career paths in multiple fields including medicine, psychology, law, engineering, education and public policy. Master’s-level education in neuroscience will provide students with a wide range of career options including teacher/lecturer, research and teaching administrator, research associate at academic research institutes or private industries, biostatistician, medical or science writer, clinical data manager, public health administrator, environmental health safety officer, counselor, regulatory affairs specialist, and public policy strategist.
-
-### Contact
-
-**Director, Neuroscience Program**<br>
-Vinay Parikh<br/>
-Weiss Hall<br/>
-Phone: [(215)204-1572](tel:2152041572 )<br/>
-Email: [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu) <br/>
-
-**Associate Director, Master's Program in Neuroscience**<br>
-Debra Bangasser<br/>
-873 Weiss Hall<br/>
-Phone: [(215)204-1015](tel:2152041015)<br/>
-Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
-
-**Student Services Specialist, Neuroscience Program**<br>
-Sarah McLaughlin<br/>
-638 Weiss Hall<br/>
-Phone: [(215) 204-3441](tel:2152043441)<br/>
-Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
  
 ### Admission Requirements
 
@@ -142,7 +122,6 @@ The Specialization in Neuroscience is for PhD students interested in studying ne
 5.	Take two courses in each of the Neuroscience Specialization Areas:
 - Behavioral /Cognitive / Systems Neuroscience
 - Cellular/Molecular Neuroscience
-
 
 ### Contact
 
