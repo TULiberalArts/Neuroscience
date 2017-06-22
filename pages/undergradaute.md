@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: neuroscience research, major, minor, +1
 permalink: /undergraduate/
 layout: page
 published: true
