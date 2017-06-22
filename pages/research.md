@@ -1,5 +1,6 @@
 ---
 title: Research
+meta-keywords: independent study, wet lab, faculty sponsor
 permalink: /research/
 layout: page
 published: true
