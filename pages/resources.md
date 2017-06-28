@@ -5,8 +5,6 @@ permalink: /resources/
 layout: page
 published: true
 ---
-## Resources are here to help!
-
 ## Nu Rho Psi Honor Society
 
 The purpose of Nu Rho Psi is to:
