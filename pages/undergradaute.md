@@ -1,35 +1,29 @@
 ---
 title: Undergraduate
-meta-keywords: neuroscience research, major, minor, +1
+meta-keywords: 'neuroscience research, major, minor, +1'
 permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: >
   ### Contact Us
 
   <hr>
 
-  **Director:** <br/>
-  Vinay Parikh<br/>
-  427 Anderson Hall<br/>
-  [(215) 204-1572](tel:2152041572) <br/>
+  **Director:** <br/> Vinay Parikh<br/> 427 Anderson Hall<br/> [(215)
+  204-1572](tel:2152041572) <br/>
   [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu )<br/>
 
   <hr>
 
-  **Associate Director, Master’s Program in Neuroscience:** <br/>
-  Debra Bangasser<br/>
-  873 Weiss Hall<br/>
-  [(215) 204-1015](tel:2152041015)<br/>
+  **Associate Director, Master’s Program in Neuroscience:** <br/> Debra
+  Bangasser<br/> 873 Weiss Hall<br/> [(215) 204-1015](tel:2152041015)<br/>
   [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
 
   <hr>
 
-  **Student Services Specialist:** <br/>
-  Sarah McLaughlin<br/>
-  638 Weiss Hall<br/>
-  [(215) 204-3441](tel:2152043441)<br/>
+  **Student Services Specialist:** <br/> Sarah McLaughlin<br/> 638 Weiss
+  Hall<br/> [(215) 204-3441](tel:2152043441)<br/>
   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 ---
 
@@ -100,32 +94,6 @@ All materials must be submitted in a single email.
 ### Letters of Recommendation
 
 Two letters of recommendation from Temple University faculty are required. At least one letter must be from a faculty member affiliated with the College of Liberal Arts neuroscience program.  Please request that faculty recommenders submit the letter as an email attachment to [Neuro@Temple.edu](mailto:Neuro@Temple.edu), with the applicant’s full name in the subject line.
-
-### +1 Program Contact Information
-
-**Program Directors**
-
-Vinay Parikh, PhD<br/> 
-1701 North 13th Street, Weiss Hall<br/>
-Philadelphia, PA 19122<br/>
-Office Phone: 215-204-1572<br/>
-Email: [parikh10@temple.edu](mailto:parikh10@temple.edu)  <br/>
-
-Debra Bangasser, PhD<br/>
-1701 North 13th Street<br/>
-873 Weiss Hall<br/>
-Philadelphia, PA 19122<br/>
-215-204-1015<br/>
-Email: [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
-
-**Academic Advisor**
-
-Sarah McLaughlin<br/>
-Weiss Hall Room 638<br/>
-1701 N 13th Street<br/>
-Philadelphia, PA 19122<br/>
-215-204-3441<br/>
-Email: [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
 
 ## Independent Study in Neuroscience
 Students majoring in neuroscience are strongly encouraged to participate in research by taking courses in independent study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator](mailto:smclaughlin@temple.edu) and [Program Director](mailto:vinay.parikh@temple.edu) will work with students to identify these independent study opportunities. More detailed information is available under [research](/neuroscience/research/#independent-study).
