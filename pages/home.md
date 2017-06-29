@@ -1,7 +1,7 @@
 ---
 title: Home
 meta-description: 100 or so words
-meta-keywords: neuroscience program, college of liberal arts, Temple
+meta-keywords: 'neuroscience program, college of liberal arts, Temple'
 permalink: /
 layout: home
 feature: true
@@ -26,7 +26,7 @@ published: true
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="Add Another Year — and a Master's"
-      content="Our competitive 4+1 program offers students the opportunity to earn both a bachelor's and master's degree in neuroscience in just five years."
+      content="Our competitive +1 program offers students the opportunity to earn both a bachelor's and master's degree in neuroscience in just five years."
       image=""
       button-link="undergraduate/#program-description"
       button-text="Learn More" %}
