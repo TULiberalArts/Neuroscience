@@ -1,24 +1,15 @@
 ---
 title: Research
-meta-keywords: independent study, wet lab, faculty sponsor
+meta-keywords: 'independent study, wet lab, faculty sponsor'
 permalink: /research/
 layout: page
 published: true
 ---
+One of the major goals of the neuroscience program is to provide students with the research experience and practical training in neuroscience through faculty-mentored research. Neuroscience faculty at Temple University utilize state-of-the art equipment and cutting-edge techniques to study fundamental brain processes and functions at various levels and how this knowledge could be applied to the treatment of various neuropathologies. The program consists of more than 35 faculty members from different departments and colleges that provide mentorship to the undergraduate or graduate students. The research conducted by neuroscience participating faculty is funded by the National Science Foundation, National Institutes of Health, Industry, and many private research foundations.
 
-## Research Support
+## Undergraduate Students
 
-Many neuroscience faculty members conduct research funded from external sources such as NIH, NSF, foundations, and industry. An aim of the Center for Neuroscience is to make the sum of individual research projects greater than the individual components.
-
-One means of making the sum greater than the parts is by facilitating interactions and collaborations among neuroscience laboratories. A model at Temple University for this facilitation is evident in the Center for Substance Abuse that invites faculty to interact in a bi-weekly speakers series over lunch. Faculty members participating in the Center have successfully applied for a Program Project research grant that binds them together in a common research endeavor and provides them with core facilities and resources. Another model is the 18-member Department of Psychology Neuroscience Group.. Having a number of faculty members working in the neuroscience domain has been synergistic. Collaborations between members of this group resulted in collaborative individual awards from NSF and NIH and an NSF Center grant.
-
-The Center for Neuroscience supports research by providing core staff to manage resources. Among the centrally shared resources is a patient registry/database created and housed in the Center to facilitate access to unique patient populations and foster interactions between basic and clinical neuroscience.
-
-## Undergraduate Wet Lab
-
-Our neuroscience majors have the opportunity to use our undergraduate wet lab. Wet lab work is a vital component of research at the graduate and faculty level. Our undergraduates get a head start by getting wet lab experience early.
-
-## Independent Study
+### Independent Study
 
 Neuroscience majors are encouraged to gain first-hand experience with research through independent study. Students will carry out supervised neuroscience research by observing and participating in ongoing research in a laboratory environment.
 
@@ -37,3 +28,7 @@ For additional support, contact the Student Services Specialist at [Neuro@temple
 In order to register for independent study, you need a Special Course Approval form. This form can be found in the Neuroscience Advising office in room 638 Weiss Hall.
 
 Students must complete all information on the form and have the research mentor sign the form. The form should then be returned to the Neuroscience Advising office in room 638 Weiss. The form can be left under the door if there is no one available to help you. Once you are registered, you will notice that Dr. Parikh is the instructor. Dr. Parikh is responsible for the administration of the course. You will go to you laboratory and work with your mentor according to your agreement. At the end of the semester, your mentor will be contacted for a grade.
+
+## Master's Research Project
+
+Students are required to work on a master’s project for both semesters in the second year. Those students who are motivated to join doctoral programs or are interested in research positions will have the opportunity to work independently on a neuroscientific investigation under the supervision of a faculty member that maintains an active neuroscience research program. The purpose of the project will be to not only train students in specific neuroscientific techniques, but also to train students to develop scientific and analytical approach towards a problem, formulate clear research questions, conduct experiment, and analyze/interpret data.
