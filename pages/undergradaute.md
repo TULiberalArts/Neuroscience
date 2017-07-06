@@ -5,26 +5,28 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: >
-  ### Contact Us
-
-  <hr>
-
-  **Director:** <br/> Vinay Parikh<br/> 427 Anderson Hall<br/> [(215)
-  204-1572](tel:2152041572) <br/>
-  [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu )<br/>
-
-  <hr>
-
-  **Associate Director, Master’s Program in Neuroscience:** <br/> Debra
-  Bangasser<br/> 873 Weiss Hall<br/> [(215) 204-1015](tel:2152041015)<br/>
-  [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)<br/>
-
-  <hr>
-
-  **Student Services Specialist:** <br/> Sarah McLaughlin<br/> 638 Weiss
-  Hall<br/> [(215) 204-3441](tel:2152043441)<br/>
-  [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)<br/>
+sidebar-content: > #
+  **Director:**  
+   Vinay Parikh  
+   Weiss Hall  
+   [(215) 204-1572](tel:2152041572)  
+   [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu)  
+   
+   ___
+   
+   **Associate Director, Master’s Program in Neuroscience:**  
+   Debra Bangasser  
+   873 Weiss Hall  
+   [(215) 204-1015](tel:2152041015)  
+   [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)  
+   
+   ___
+   
+   **Student Services Specialist:**  
+   Sarah McLaughlin  
+   638 Weiss Hall   
+   [(215) 204-3441](tel:2152043441)  
+   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)  
 ---
 
 ## A Hands-On Approach
