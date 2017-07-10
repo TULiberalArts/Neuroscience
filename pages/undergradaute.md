@@ -1,5 +1,6 @@
 ---
 title: Undergraduate
+meta-description: 100 or so words
 meta-keywords: 'neuroscience research, major, minor, +1'
 permalink: /undergraduate/
 layout: page
