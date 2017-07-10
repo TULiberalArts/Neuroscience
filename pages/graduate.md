@@ -1,5 +1,6 @@
 ---
 title: Graduate
+meta-description:
 meta-keywords: graduate program, neuroscience, phd specialization
 permalink: /graduate/
 layout: page
