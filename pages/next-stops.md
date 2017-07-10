@@ -1,5 +1,6 @@
 ---
 title: Next Stops
+meta-description:
 meta-keywords: 'careers, internships, neuroscience major'
 permalink: /next-stops/
 layout: page
