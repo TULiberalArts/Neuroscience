@@ -34,7 +34,7 @@ Students who join [UNS](https://temple.campuslabs.com/engage/organization/Underg
 - Travel to the international Society for Neuroscience annual conference.
 - Tutor or find tutors to explain neuroscience core concepts through our Tutoring Program.
 
-**Interested in joining? Contact:**<br/>
+**Interested in joining? Contact:**
 Charles Ulmer (UNS  President)<br/>
 [tue53469@temple.edu](mailto:tue53469@temple.edu)<br/>
 
