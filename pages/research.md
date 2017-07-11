@@ -1,6 +1,9 @@
 ---
 title: Research
-meta-description:
+meta-description: >-
+  Our students gain research experience and practical training by working
+  with     faculty on cutting-edge research in the classroom and the
+  laboratory. 
 meta-keywords: 'independent study, wet lab, faculty sponsor'
 permalink: /research/
 layout: page
