@@ -1,6 +1,9 @@
 ---
 title: Faculty
-meta-description: null
+meta-description: >-
+  Our faculty members are nationally recognized in their fields and continue
+  to     research and publish while teaching both introductory and advanced
+  courses.
 meta-keywords: null
 permalink: /faculty/
 layout: faculty
