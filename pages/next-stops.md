@@ -1,6 +1,8 @@
 ---
 title: Next Stops
-meta-description: null
+meta-description: >-
+  Our students graduate prepared for a range of careers in a rapidly
+  growing      field. Learn more or apply now. 
 meta-keywords: 'careers, internships, neuroscience major'
 permalink: /next-stops/
 layout: page
