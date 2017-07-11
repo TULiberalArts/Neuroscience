@@ -84,7 +84,7 @@ Other relevant disciplines, combined with or including course work in biology, c
 
 [International applicants](http://www.temple.edu/grad/admissions/international.htm) should ensure that they meet the requirements for degree equivalency.
 
-All completed applications are reviewed. If you do not meet one or more of the admission requirements (e.g., lacking a lab course; a GRE score below the minimum) your application, if complete, will be reviewed. 
+All completed applications are reviewed. If you do not meet one or more of the admission requirements (e.g., lacking a lab course; a GRE score below the minimum) your application, if complete, will be reviewed.
 
 ### Application Instructions
 
@@ -94,7 +94,7 @@ b. After filling in your personal information you will be asked to select a prog
 c. Complete the application, submit, and pay electronically. Print out a copy of the application for your files.<br>
 
 2. Return to this page to prepare additional application materials.<br>
-a. Download and complete the two page [Neuroscience Master's Data Sheet](http://www.cla.temple.edu/neuroscience/files/2017/04/Temple-Neuroscience-Masters-Program-Application-1.pdf) that is required to accompany the Temple University Application for Graduate Study.<br>
+a. Download and complete the two page [Neuroscience Master's Data Sheet](#) that is required to accompany the Temple University Application for Graduate Study.<br>
 b. Please prepare a resumé (also called a CV in academic circles).<br>
 c. Have available the Statement of Goals from your on-line application.
 

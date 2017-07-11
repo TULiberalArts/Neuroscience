@@ -6,7 +6,7 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-Our neuroscience majors get hands-on experience. You'll have the opportunity to participate in ongoing research in our faculty-run laboratories and get course credit for real-world internships, things that will help prepare you for a range of careers after graduation. 
+Our neuroscience majors get hands-on experience. You'll have the opportunity to participate in ongoing research in our faculty-run laboratories and get course credit for real-world internships, things that will help prepare you for a range of careers after graduation.
 
 ## Internships
 

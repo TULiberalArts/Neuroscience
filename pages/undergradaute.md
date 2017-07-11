@@ -71,7 +71,7 @@ The +1 master in neuroscience program offers outstanding Temple University neuro
 
 Students apply to the program in the spring semester of the junior year after completing a minimum of 72 undergraduate credits. Additionally, students must have a faculty sponsor who has agreed to mentor the student’s master’s project research during the four-semester program.
 
-The accelerated +1 MS degree program consists of a maximum of 113 semester hours of undergraduate coursework, a maximum of 10 semester hours of graduate coursework to count towards both the undergraduate and the graduate degrees, and an additional 20 semester hours of graduate coursework as a graduate student. Upon successful completion of the fourth year, students receive a BS in neuroscience (using 10 credits of graduate coursework) if they have met all other degree requirements. At the end of the contiguous fifth year, students receive a MS in neuroscience. 
+The accelerated +1 MS degree program consists of a maximum of 113 semester hours of undergraduate coursework, a maximum of 10 semester hours of graduate coursework to count towards both the undergraduate and the graduate degrees, and an additional 20 semester hours of graduate coursework as a graduate student. Upon successful completion of the fourth year, students receive a BS in neuroscience (using 10 credits of graduate coursework) if they have met all other degree requirements. At the end of the contiguous fifth year, students receive a MS in neuroscience.
 
 ### Admission Requirements
 
@@ -85,14 +85,14 @@ The accelerated +1 MS degree program consists of a maximum of 113 semester hours
 
 ### Student Application Materials
 
-Assemble and submit the following materials as email attachments to [Neuro@Temple.edu](mailto:Neuro@Temple.edu). 
+Assemble and submit the following materials as email attachments to [Neuro@Temple.edu](mailto:Neuro@Temple.edu).
 
 All materials must be submitted in a single email.
 
 - Unofficial undergraduate transcripts
-- [+1 Application Form](http://www.cla.temple.edu/neuroscience/files/2017/03/Application.docx) (form will download)
-- [Signed Faculty Sponsor Agreement](http://www.cla.temple.edu/neuroscience/files/2017/03/Faculty-Sponsor-Agreement.docx) (form will download)
-- A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience and future career goals. 
+- [+1 Application Form](#) (form will download)
+- [Signed Faculty Sponsor Agreement](#) (form will download)
+- A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience and future career goals.
 
 ### Letters of Recommendation
 
@@ -105,7 +105,7 @@ Students majoring in neuroscience are strongly encouraged to participate in rese
 
 Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduating with distinction can be achieved by maintaining a grade point average 3.0 of better in all neuroscience courses, completing two semesters of independent study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to neuroscience program faculty and students.  Students MUST complete an Application for Distinction.
 
-### Distinction Paper 
+### Distinction Paper
 
 The Distinction Paper should follow the _[Journal of Neuroscience](http://www.jneurosci.org/)_ format, and should be between eight and 15 pages long.
 
