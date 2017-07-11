@@ -1,12 +1,12 @@
 ---
 title: Graduate
-meta-description:
-meta-keywords: graduate program, neuroscience, phd specialization
+meta-description: null
+meta-keywords: 'graduate program, neuroscience, phd specialization'
 permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Director:**  
    Vinay Parikh  
    Weiss Hall  
@@ -27,8 +27,9 @@ sidebar-content: > #
    Sarah McLaughlin  
    638 Weiss Hall   
    [(215) 204-3441](tel:2152043441)  
-   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)  
+   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
 ---
+Our offerings include an [MS in neuroscience](#ms-in-neuroscience) and a [PhD specialization](#phd-specialization-in-neuroscience).
 
 ## Academic Offerings at a Glance
 
