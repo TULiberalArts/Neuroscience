@@ -6,7 +6,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Director:**  
    Vinay Parikh  
    Weiss Hall  
@@ -27,8 +27,9 @@ sidebar-content: > #
    Sarah McLaughlin  
    638 Weiss Hall   
    [(215) 204-3441](tel:2152043441)  
-   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)  
+   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
 ---
+Learn more about the [neuroscience major](#bs-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience 5-Year master’s program](#program-description) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
 
 ## A Hands-On Approach
 
