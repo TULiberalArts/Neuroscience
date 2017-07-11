@@ -1,6 +1,6 @@
 ---
 title: Resources
-meta-description: undergraduate student societies
+meta-description: "Learn about the\_Nu Rho Psi Honor Society\_and the\_Undergraduate Neuroscience       Society."
 meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
