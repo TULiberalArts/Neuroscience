@@ -29,7 +29,7 @@ sidebar-content: |
    [(215) 204-3441](tel:2152043441)  
    [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
 ---
-Our offerings include an [MS in neuroscience](#ms-in-neuroscience) and a [PhD specialization](#phd-specialization-in-neuroscience).
+Our graduate offerings include an [MS in neuroscience](#ms-in-neuroscience) and a [PhD specialization](#phd-specialization-in-neuroscience).
 
 ## Academic Offerings at a Glance
 
