@@ -1,6 +1,5 @@
 ---
 title: Undergraduate
-meta-description: 100 or so char
 meta-keywords: 'neuroscience research, major, minor, +1'
 permalink: /undergraduate/
 layout: page
@@ -28,6 +27,10 @@ sidebar-content: |
    638 Weiss Hall   
    [(215) 204-3441](tel:2152043441)  
    [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+meta-description: >-
+  Information about the undergraduate major, the minors in neuroscience
+  research   and cognitive neuroscience, the +1 program and graduating with
+  distinction.
 ---
 Learn more about the [neuroscience major](#bs-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience 5-Year master’s program](#program-description) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
 
