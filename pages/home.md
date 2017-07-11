@@ -1,6 +1,9 @@
 ---
 title: Home
-meta-description: 100 or so words
+meta-description: >-
+  Our interdisciplinary program offers hands-on experience, internship
+  opportunities and even the option to get a master’s degree in only one extra
+  year.
 meta-keywords: 'neuroscience program, college of liberal arts, Temple'
 permalink: /
 layout: home
