@@ -1,8 +1,8 @@
 ---
 title: Graduate
 meta-description: >-
-  Our graduate offerings include an MS in Neuroscience: Systems, Behavior
-  and       Plasticity and a PhD specialization. 
+  Our graduate offerings include an MS in Neuroscience: Systems, Behavior and
+  Plasticity and a PhD specialization. 
 meta-keywords: 'graduate program, neuroscience, phd specialization'
 permalink: /graduate/
 layout: page
