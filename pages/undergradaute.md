@@ -95,7 +95,7 @@ All materials must be submitted in a single email.
 
 - Unofficial undergraduate transcripts
 - [+1 Application Form](https://liberalarts.temple.edu/sites/liberalarts/files/Neuroscience%20%2B1%20Application.pdf) (form will download)
-- [Signed Faculty Sponsor Agreement](https://liberalarts.temple.edu/neuroscience-1-sponsor-agreement-form) (form will download)
+- [Signed Faculty Sponsor Agreement](https://liberalarts.temple.edu/sites/liberalarts/files/Neuroscience%20Faculty-Sponsor-Agreement%20%281%29.pdf) (form will download)
 - A personal statement describing the reasons for pursuing a master’s degree, current research interests, research experience and future career goals.
 
 ### Letters of Recommendation
