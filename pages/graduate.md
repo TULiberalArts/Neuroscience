@@ -97,7 +97,7 @@ b. After filling in your personal information you will be asked to select a prog
 c. Complete the application, submit, and pay electronically. Print out a copy of the application for your files.<br>
 
 2. Return to this page to prepare additional application materials.<br>
-a. Download and complete the two page [Neuroscience Master's Data Sheet](#) that is required to accompany the Temple University Application for Graduate Study.<br>
+a. Download and complete the two page [Neuroscience Master's Data Sheet](https://liberalarts.temple.edu/sites/liberalarts/files/Temple-Neuroscience-Masters-Program-Application_.pdf) that is required to accompany the Temple University Application for Graduate Study.<br>
 b. Please prepare a resumé (also called a CV in academic circles).<br>
 c. Have available the Statement of Goals from your on-line application.
 
