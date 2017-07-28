@@ -46,7 +46,7 @@ No matter what our students have planned for life after graduation — further g
 
 Classes are taught by full-time faculty with degrees in neuroscience and extensive teaching and research experience in the field. Our small class sizes allow students the opportunity to network with neuroscience experts and receive personal attention from faculty.
 
-When you are ready to apply, submit your application online at [http://admissions.temple.edu/apply](http://admissions.temple.edu/apply). 
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply). 
 
 ## Academic Offerings at a Glance
 
