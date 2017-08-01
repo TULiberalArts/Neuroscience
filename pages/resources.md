@@ -45,4 +45,4 @@ Events Coordinator: [Aishwarya Durgam](mailto:tug41591@temple.edu)<br />
 Treasurer: [Mishleen Bashour](mailto:tuf59157@temple.edu)<br />
 Secretary: [Tara Peterson](mailto:tug59434@temple.edu)
 
-Interested in joining? Contact Applications one of our board members or complete an application (available in Weiss Hall, Office 638).
+Interested in joining? Contact one of our board members or complete an application (available in Weiss Hall, Office 638).
