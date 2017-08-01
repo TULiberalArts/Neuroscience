@@ -36,12 +36,13 @@ Students who join [UNS](https://temple.campuslabs.com/engage/organization/Underg
 - Travel to the international Society for Neuroscience annual conference.
 - Tutor or find tutors to explain neuroscience core concepts through our Tutoring Program.
 
-**Interested in joining? Contact:**    
+**Executive Board:**
 
-Charles Ulmer (UNS  President)<br/>
-[tue53469@temple.edu](mailto:tue53469@temple.edu)<br/>
+Co-President: [Timur Rusanov](mailto:timur.rusanov@temple.edu)
+Co-President: [Katia Matychak](mailto: tuf90873@temple.edu)
+Vice President: [Cory Ardekani](mailto:tuf52492@temple.edu)
+Events Coordinator: [Aishwarya Durgam](mailto:tug41591@temple.edu)
+Treasurer: [Mishleen Bashour](mailto:tuf59157@temple.edu)
+Secretary: [Tara Peterson](mailto:tug59434@temple.edu)
 
-Daniella Wong (UNS Vice President)<br/>
-[tue93952@temple.edu](mailto:tue93952@temple.edu)<br/>
-
-Applications to join UNS are also available in Weiss Hall, Office 638.
+Interested in joining? Contact Applications one of our board members or complete an application (available in Weiss Hall, Office 638).
