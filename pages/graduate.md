@@ -92,7 +92,7 @@ All completed applications are reviewed. If you do not meet one or more of the a
 ### Application Instructions
 
 1. Complete the initial application to the Graduate School at Temple.<br>
-a. Visit http://www.temple.edu/apply/common/appcheck.asp and follow the directions to apply online.<br>
+a. Visit [http://www.temple.edu/apply/common/appcheck.asp](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon) and follow the directions to apply online.<br>
 b. After filling in your personal information you will be asked to select a program. Select “Neuroscience/MS”<br>
 c. Complete the application, submit, and pay electronically. Print out a copy of the application for your files.<br>
 
