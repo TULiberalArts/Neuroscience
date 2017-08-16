@@ -5,7 +5,7 @@ meta-description: >-
   to     research and publish while teaching both introductory and advanced
   courses.
 meta-keywords: null
-permalink: /faculty/
+permalink: /faculty2/
 layout: faculty
 published: true
 description: >-
