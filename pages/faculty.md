@@ -6,7 +6,7 @@ meta-description: >-
   courses.
 meta-keywords: null
 permalink: /faculty/
-layout: faculty
+layout: faculty2
 published: true
 description: >-
   Our faculty members are nationally recognized in their fields and continue to
