@@ -5,8 +5,8 @@ meta-description: >-
   to     research and publish while teaching both introductory and advanced
   courses.
 meta-keywords: null
-permalink: /faculty2/
-layout: faculty
+permalink: /faculty/
+layout: faculty2
 published: true
 description: >-
   Our faculty members are nationally recognized in their fields and continue to
