@@ -1,12 +1,12 @@
 ---
 title: Research
-meta-description: >-
-  Our students gain research experience and practical training by working
-  with     faculty on cutting-edge research in the classroom and the
-  laboratory. 
-meta-keywords: 'independent study, wet lab, faculty sponsor'
 permalink: /research/
 layout: page
+description: >-
+  Our students gain research experience and practical training by working
+  with faculty on cutting-edge research in the classroom and the
+  laboratory. 
+keywords: 'independent study, wet lab, faculty sponsor'
 published: true
 ---
 One of the major goals of the neuroscience program is to provide students with the research experience and practical training in neuroscience through faculty-mentored research. Neuroscience faculty at Temple University utilize state-of-the art equipment and cutting-edge techniques to study fundamental brain processes and functions at various levels and how this knowledge could be applied to the treatment of various neuropathologies. The program consists of more than 35 faculty members from different departments and colleges that provide mentorship to the undergraduate or graduate students. The research conducted by neuroscience participating faculty is funded by the National Science Foundation, National Institutes of Health, Industry, and many private research foundations.
