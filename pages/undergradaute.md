@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'neuroscience research, major, minor, +1'
 permalink: /undergraduate/
 layout: page
+keywords: 'neuroscience research, major, minor, +1'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
