@@ -1,9 +1,10 @@
 ---
 title: Resources
-meta-description: "Learn about the\_Nu Rho Psi Honor Society\_and the\_Undergraduate Neuroscience       Society."
-meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
+keywords: ''
+description: >-
+  "Learn about the Nu Rho Psi Honor Society and the Undergraduate Neuroscience Society."
 published: true
 ---
 Learn about the [Nu Rho Psi Honor Society](#nu-rho-psi-honor-society) and the [Undergraduate Neuroscience Society](#undergraduate-neuroscience-society).
