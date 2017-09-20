@@ -1,23 +1,22 @@
 ---
 title: Home
-meta-description: >-
+permalink: /
+layout: home
+description: >-
   Our interdisciplinary program offers hands-on experience, internship
   opportunities and even the option to get a master’s degree in only one extra
   year.
-meta-keywords: 'neuroscience program, college of liberal arts, Temple'
-permalink: /
-layout: home
+keywords: 'neuroscience program, college of liberal arts, Temple'
 feature: true
 feature-title: Employ Your Mind
+feature-image: media/hero_Neuroscience-red.png
 feature-body: >-
   Our neuroscience program teaches students to explore neural and brain function
   at multiple levels in a rapidly growing field. Our students study the neural
   basis of addiction, developmental disorders, ADHD, depression, anxiety,
   age-related disorders and much more.
-feature-image: media/hero_Neuroscience-red.png
 published: true
 ---
-
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
