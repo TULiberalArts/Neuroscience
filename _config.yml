@@ -63,7 +63,8 @@ google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/neuroscience/csv
-news-feed: https://liberalarts.temple.edu/articles/neuroscience/csv
+news-feed: https://liberalarts.temple.edu/news/neuroscience/csv
+articles-feed: https://liberalarts.temple.edu/articles/neuroscience/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/neuroscience/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/neuroscience/csv
 
