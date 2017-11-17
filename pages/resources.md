@@ -9,6 +9,8 @@ published: true
 ---
 Learn about the [Nu Rho Psi Honor Society](#nu-rho-psi-honor-society) and the [Undergraduate Neuroscience Society](#undergraduate-neuroscience-society).
 
+![Nu Rho Psi]({{site.baseurl}}/media/nuropsi.jpg){:.img-right}
+
 ## Nu Rho Psi Honor Society
 
 The purpose of [Nu Rho Psi](https://temple.campuslabs.com/engage/organization/nurhopsi) is to:
