@@ -35,6 +35,8 @@ meta-description: >-
 ---
 Learn more about the [neuroscience major](#bs-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience 5-Year master’s program](#program-description) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
 
+![Research]({{site.baseurl}}/media/neuro poster.jpg){:.img-right}
+
 ## A Hands-On Approach
 
 Neuroscience majors have the opportunity to gain first-hand research experience by observing and participating in ongoing studies on campus and at external research sites. Our students love working in our [wet lab](http://liberalarts.temple.edu/about-us/newsroom/neuroscience-and-psychology-undergrads-not-afraid-get-their-hands-dirty) specifically for undergraduates.
