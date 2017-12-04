@@ -63,7 +63,7 @@ On the other hand, students who are not intending bench-level research upon grad
 
 Because the brain is involved in every important human endeavor, an understanding of the brain and its functions opens career paths in multiple fields including medicine, psychology, law, engineering, education and public policy. Master’s-level education in neuroscience will provide students with a wide range of career options including teacher/lecturer, research and teaching administrator, research associate at academic research institutes or private industries, biostatistician, medical or science writer, clinical data manager, public health administrator, environmental health safety officer, counselor, regulatory affairs specialist, and public policy strategist.
  
-### Admission Requirements
+### Admissions Process
 
 All MS applicants must meet the requirements for admission listed below. The application deadline was **May 1, 2017**.
 
