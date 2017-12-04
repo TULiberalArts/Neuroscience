@@ -67,7 +67,7 @@ Because the brain is involved in every important human endeavor, an understandin
 
 All MS applicants must meet the requirements for admission listed below. The application deadline was **May 1, 2017**.
 
-Please visit the Neuroscience Graduate Admissions page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Neuroscience Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/neuroscience) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## PhD Specialization in Neuroscience
 
