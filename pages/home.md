@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 description: >-
   Our interdisciplinary program offers hands-on experience, internship
   opportunities and even the option to get a master’s degree in only one extra
