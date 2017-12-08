@@ -54,6 +54,9 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
+program_news: https://liberalarts.temple.edu/news/neuroscience
+program_events: https://events.temple.edu/department/neuroscience
+
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
