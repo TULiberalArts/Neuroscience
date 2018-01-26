@@ -31,6 +31,12 @@ sidebar-content: |
    [(215) 204-3441](tel:2152043441)  
    [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
 ---
+## Academic Offerings at a Glance
+
+ - [MS in Neuroscience: Systems, Behavior and Plasticity](#ms-in-neuroscience)
+ - [PhD Specialization in Neuroscience](#phd-specialization-in-neuroscience)
+ - [+1 Neuroscience 5-Year Master’s Program](/neuroscience/undergraduate/#program-description)
+
 ## MS in Neuroscience
 Our MS in Neuroscience: Systems, Behavior and Plasticity provides highly advanced training and faculty-mentored research in a rapidly evolving field with practical applications in careers ranging from health care to public policy and economics.
 
