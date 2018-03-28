@@ -53,7 +53,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 - [BS in Neuroscience](#bs-in-neuroscience)
 - [Minor in Neuroscience Research](#minor-in-neuroscience-research)
 - [Minor in Cognitive Neuroscience](#minor-in-cognitive-neuroscience)
-- [+1 Neuroscience 5-Year Master’s Program](#program-description)
+- [+1 Neuroscience 5-Year Master’s Program](#1-neuroscience-5-year-masters-program)
 
 ## BS in Neuroscience
 A [major in neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/bs-neuroscience-systems-behavior-plasticity/) enables students to pursue a curriculum in several departments, colleges and schools at Temple University in one of the most dynamic areas of science. Neuroscience is an interdisciplinary field addressing neural and brain function at multiple levels. It encompasses a broad domain that ranges from molecular genetics and neural development, to brain processes involved in cognition and emotion, to mechanisms and consequences of neurodegenerative disease. The field of neuroscience also includes mathematical and physical principles involved in modeling neural systems and in brain imaging.
