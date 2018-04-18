@@ -18,7 +18,7 @@ feature-body: >-
 published: true
 ---
 ## Customized Plan of Study
-No matter what our students have planned for life after graduation — further graduate study in neuroscience, medical school or entering the workforce — our flexible curriculum allows time for classes outside of the major, so our students get the well-rounded academic experience needed for their next stop.
+No matter what our students have planned for life after graduation — further graduate study in neuroscience, medical school or entering the workforce our flexible curriculum allows time for classes outside of the major, so our students get the well-rounded academic experience needed for their next stop.
 
 ## Academic Offerings 
 - [BS in Neuroscience](#bs-in-neuroscience)
