@@ -3,6 +3,8 @@
 title: Neuroscience
 # Subdirectory (with / at only at beginning)
 baseurl: /neuroscience
+# url spits sitemap
+url: https://www.cla.temple.edu/neuroscience
 
 # Program Information
 # Short tagline for tweets (<100 characters)
