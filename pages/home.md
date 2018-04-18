@@ -17,6 +17,14 @@ feature-body: >-
   age-related disorders and much more.
 published: true
 ---
+## Customized Plan Of Study
+No matter what our students have planned for life after graduation — further graduate study in neuroscience, medical school or entering the workforce — our flexible curriculum allows time for classes outside of the major, so our students get the well-rounded academic experience needed for their next stop.
+
+## Academic Offerings 
+- [BS in Neuroscience](#bs-in-neuroscience)
+- [Minor in Neuroscience Research](#minor-in-neuroscience-research)
+- [Minor in Cognitive Neuroscience](#minor-in-cognitive-neuroscience)
+- [+1 Neuroscience 5-Year Master’s Program](#1-neuroscience-5-year-masters-program)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
