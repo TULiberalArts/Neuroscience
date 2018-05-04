@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'renowned research faculty, neuroscience'
 description: >-
   Our faculty members are nationally recognized in their fields and continue
   to  research and publish while teaching both introductory and advanced
