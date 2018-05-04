@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: 'neuroscience research, major, minor, +1'
+keywords: 'neuroscience research, major, minor, +1, independent study, posters, graduating with distinction'
 meta-description: >-
   Information about the undergraduate major, the minors in neuroscience
   research   and cognitive neuroscience, the +1 program and graduating with
