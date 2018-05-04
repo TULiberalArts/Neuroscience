@@ -6,7 +6,7 @@ description: >-
   Our interdisciplinary program offers hands-on experience, internship
   opportunities and even the option to get a master’s degree in only one extra
   year.
-keywords: 'neuroscience program, college of liberal arts, Temple'
+keywords: 'neuroscience program, major, minor, certificate, MS, accelerated degree'
 feature: true
 feature-title: Employ Your Mind
 feature-image: media/hero_Neuroscience-red.png
