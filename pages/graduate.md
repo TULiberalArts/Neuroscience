@@ -5,7 +5,7 @@ layout: page
 description: >-
   Our graduate offerings include an MS in Neuroscience: Systems, Behavior and
   Plasticity and a PhD specialization. 
-keywords: 'graduate program, neuroscience, phd specialization'
+keywords: 'graduate program, ms in neuroscience, phd specialization, admissions, careers, amsters project'
 published: true
 sidebar: true
 sidebar-content: |
