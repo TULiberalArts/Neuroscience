@@ -5,7 +5,7 @@ layout: page
 description: >-
   Our students graduate prepared for a range of careers in a rapidly
   growing field. Learn more or apply now. 
-keywords: 'careers, internships, neuroscience major'
+keywords: 'careers, internships, neuroscience major, apply, visit, transfer'
 published: true
 ---
 Our neuroscience majors get hands-on experience. You'll have the opportunity to participate in ongoing research in our faculty-run laboratories and get course credit for real-world [internships](#internships), things that will help prepare you for a range of [careers](#careers) after graduation. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
