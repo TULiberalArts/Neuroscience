@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
+keywords: 'Nu Rho Psi Honor Society, undergraduate neuroscience society'
 description: >-
   "Learn about the Nu Rho Psi Honor Society and the Undergraduate Neuroscience Society."
 published: true
@@ -30,7 +30,6 @@ The first and foremost benefit of Nu Rho Psi membership is the honor and recogni
 E-mail: [NuRhoPsi.Temple@Gmail.com](mailto:NuRhoPsi.Temple@Gmail.com)
 
 ## Undergraduate Neuroscience Society
-
 Students who join [UNS](https://temple.campuslabs.com/engage/organization/Undergraduate_Neuroscience_Society) can take advantage of the following opportunities:
 
 - Discuss contemporary and classic neuroscience topics in a bimonthly journal club.
