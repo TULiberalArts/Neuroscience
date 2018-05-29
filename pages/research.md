@@ -2,16 +2,18 @@
 title: Research
 permalink: /research/
 layout: page
+keywords: 'independent study, wet lab, faculty sponsor, masters research project'
 description: >-
   Our students gain research experience and practical training by working
   with faculty on cutting-edge research in the classroom and the
   laboratory. 
-keywords: 'independent study, wet lab, faculty sponsor, masters research project'
 published: true
 ---
 ![Research]({{site.baseurl}}/media/resized reserach.png){:.img-right}
 
-One of the major goals of the neuroscience program is to provide students with the research experience and practical training in neuroscience through faculty-mentored research. Neuroscience faculty at Temple University utilize state-of-the art equipment and cutting-edge techniques to study fundamental brain processes and functions at various levels and how this knowledge could be applied to the treatment of various neuropathologies. The program consists of more than 35 faculty members from different departments and colleges that provide mentorship to the undergraduate or graduate students. The research conducted by neuroscience participating faculty is funded by the National Science Foundation, National Institutes of Health, Industry, and many private research foundations.
+One of the neuroscience degree program’s major goals is providing undergraduate students and masters students with research experience and practical training in neuroscience through [faculty-mentored research](#independent-study). Temple University’s neuroscience faculty utilize state-of-the-art equipment and cutting-edge techniques to study fundamental brain processes and functions at various levels and to discover how this knowledge could be applied to treating various neuropathologies. 
+
+The program consists of more than 35 faculty members from different departments and colleges who provide mentorship to undergraduate and graduate students. The research is funded by the National Science Foundation, National Institutes of Health and Industry, and many private research foundations.
 
 ## Undergraduate Students
 
