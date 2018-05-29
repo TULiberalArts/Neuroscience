@@ -38,12 +38,11 @@ Students who join [UNS](https://temple.campuslabs.com/engage/organization/Underg
 - Tutor or find tutors to explain neuroscience core concepts through our Tutoring Program.
 
 **Executive Board:**
-
-Co-President: [Timur Rusanov](mailto:timur.rusanov@temple.edu)<br />
-Co-President: [Katia Matychak](mailto: tuf90873@temple.edu)<br />
-Vice President: [Cory Ardekani](mailto:tuf52492@temple.edu)<br />
-Events Coordinator: [Aishwarya Durgam](mailto:tug41591@temple.edu)<br />
-Treasurer: [Mishleen Bashour](mailto:tuf59157@temple.edu)<br />
-Secretary: [Tara Peterson](mailto:tug59434@temple.edu)
+- Co-President: [Timur Rusanov](mailto:timur.rusanov@temple.edu)<br />
+- Co-President: [Katia Matychak](mailto: tuf90873@temple.edu)<br />
+- Vice President: [Cory Ardekani](mailto:tuf52492@temple.edu)<br />
+- Events Coordinator: [Aishwarya Durgam](mailto:tug41591@temple.edu)<br />
+- Treasurer: [Mishleen Bashour](mailto:tuf59157@temple.edu)<br />
+- Secretary: [Tara Peterson](mailto:tug59434@temple.edu)
 
 Interested in joining? Contact one of our board members or complete an application (available in Weiss Hall, Office 638).
