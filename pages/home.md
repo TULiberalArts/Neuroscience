@@ -17,8 +17,11 @@ feature-body: >-
   age-related disorders and much more.
 published: true
 ---
+## Employ Your Mind
+Our neuroscience degree program teaches students to explore neural and brain function at multiple levels in a rapidly growing field. Our students study the neural basis of addiction, developmental disorders, ADHD, depression, anxiety, age-related disorders and much more.
+
 ## Customized Plan of Study
-No matter what our students have planned for life after graduation — further graduate study in neuroscience, medical school or entering the workforce our flexible curriculum allows time for classes outside of the major, so our students get the well-rounded academic experience needed for their next stop.
+No matter what our students have planned for life after graduation—further graduate study in neuroscience, medical school or entering the workforce—our flexible curriculum allows time for classes outside of the major. As a student, you’ll get the well-rounded academic experience needed for your [next stop](https://www.cla.temple.edu/neuroscience/next-stops/).
 
 ## Academic Offerings 
 - [BS in Neuroscience](#bs-in-neuroscience)
