@@ -8,9 +8,8 @@ description: >-
 keywords: 'careers, internships, neuroscience major, apply, visit, transfer'
 published: true
 ---
-Our neuroscience majors get hands-on experience. You'll have the opportunity to participate in ongoing research in our faculty-run laboratories and get course credit for real-world [internships](#internships), things that will help prepare you for a range of [careers](#careers) after graduation. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
-
-
+College of Liberal Arts neuroscience degree majors get hands-on experience. You’ll have the opportunity to participate in ongoing research in our faculty-run laboratories and get course credit for real-world [internships](#internships) that will help prepare you for a range of [careers](#careers) after graduation. Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) and [apply](#apply) to Temple. 
+ 
 ## Internships
 Internships are excellent ways to capitalize on your experience in the field of neuroscience. Please contact [neuro@temple.edu](mailto:neuro@temple.edu) with any questions.
 
