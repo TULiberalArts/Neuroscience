@@ -11,4 +11,4 @@ published: true
 ---
 Our world-renowned faculty are committed to helping students develop professional competence in oral and written communication and gain the analytical thinking and logic skills necessary to succeed in the laboratory, the classroom and beyond.
 
-The core faculty in the CLA Neuroscience Program are primarily responsible for teaching neuroscience courses in the program and for providing research mentorship to undergraduate neuroscience major and minor students, and Master’s neuroscience students.
+The core faculty in the CLA neuroscience program are primarily responsible for teaching neuroscience courses in the program and for providing research mentorship to undergraduate neuroscience major and minor students and neuroscience masters students.
