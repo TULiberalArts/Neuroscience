@@ -32,7 +32,7 @@ sidebar-content: |
    [(215) 204-3441](tel:2152043441)  
    [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
 ---
-Learn more about the [neuroscience major](#bs-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience 5-Year master’s program](#program-description) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
+Learn more about the [neuroscience major](#bs-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience five-year master’s program](#1-neuroscience-five-year-masters-program) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
 
 ![Research]({{site.baseurl}}/media/neuro poster.jpg){:.img-right}
 ## A Hands-On Approach
