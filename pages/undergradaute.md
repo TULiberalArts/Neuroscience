@@ -1,13 +1,16 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
-keywords: 'neuroscience research, major, minor, +1, independent study, posters, graduating with distinction'
-meta-description: >-
+permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
+keywords: 'neuroscience research, major, minor, +1, independent study, posters'
+description: >-
   Information about the undergraduate major, the minors in neuroscience
   research   and cognitive neuroscience, the +1 program and graduating with
   distinction.
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Director:**  
@@ -51,7 +54,7 @@ A number of departments throughout Temple include research and teaching in neuro
 ## Minor in Neuroscience Research
 The minor in neuroscience researchexpands opportunities for Temple students to get research experience and to become more competitive in their applications to graduate and professional schools. The required courses in the neuroscience research minor focus on basic neuroscience, cellular and molecular neuroscience, and neuroscientific techniques. Because of some overlap in coursework, the students must choose either the neuroscience research or the cognitive neuroscience minor.
 
-Learn More about the [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/) 
+Learn More about the [Minor in Neuroscience Research](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/minor-neuroscience-research/)
 
 ## Minor in Cognitive Neuroscience
 The minor in cognitive neuroscience will strengthen the academic record of students who plan to apply for graduate programs. For example, in psychology this minor will strengthen applicants' records for specializations such as behavioral neuroscience, clinical neuropsychology, cognitive psychology or psychophysiology. Students might also go into general neuroscience or cognitive science. Pre-med students with a cognitive neuroscience minor present distinctive profiles to medical school admissions offices. Because of some overlap in coursework, the students must choose either the neuroscience research or the cognitive neuroscience minor.

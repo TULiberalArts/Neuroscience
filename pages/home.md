@@ -1,12 +1,16 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
   Our interdisciplinary program offers hands-on experience, internship
   opportunities and even the option to get a master’s degree in only one extra
   year.
 keywords: 'neuroscience program, major, minor, certificate, MS, accelerated degree'
+# custom variables
 feature: true
 feature-title: Employ Your Mind
 feature-image: media/hero_Neuroscience-red.png
@@ -15,7 +19,6 @@ feature-body: >-
   at multiple levels in a rapidly growing field. Our students study the neural
   basis of addiction, developmental disorders, ADHD, depression, anxiety,
   age-related disorders and much more.
-published: true
 ---
 ## Employ Your Mind
 Our neuroscience degree program teaches students to explore neural and brain function at multiple levels in a rapidly growing field. Our students study the neural basis of addiction, developmental disorders, ADHD, depression, anxiety, age-related disorders and much more.
@@ -23,7 +26,7 @@ Our neuroscience degree program teaches students to explore neural and brain fun
 ## Customized Plan of Study
 No matter what our students have planned for life after graduation—further graduate study in neuroscience, medical school or entering the workforce—our flexible curriculum allows time for classes outside of the major. As a student, you’ll get the well-rounded academic experience needed for your [next stop](https://www.cla.temple.edu/neuroscience/next-stops/).
 
-## Academic Offerings 
+## Academic Offerings
 - [BS in Neuroscience](#bs-in-neuroscience)
 - [Minor in Neuroscience Research](#minor-in-neuroscience-research)
 - [Minor in Cognitive Neuroscience](#minor-in-cognitive-neuroscience)
