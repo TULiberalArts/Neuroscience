@@ -6,9 +6,10 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  Our graduate offerings include an MS in Neuroscience: Systems, Behavior and
-  Plasticity and a PhD specialization.
-keywords: 'graduate program, ms in neuroscience, phd specialization, admissions, careers, amsters project'
+ Earn your M.S. in Neuroscience or PhD Specialization in Neuroscience at Temple University. Learn more about
+ our Master’s Project and areas of study in the College of Liberal Arts. Read up on careers in Neuroscience, 
+ learn how to apply, and contact us for more information.
+keywords: 'graduate program, ms in neuroscience, phd specialization, admissions, careers, masters project'
 # custom variables
 # custom variables
 sidebar: true
