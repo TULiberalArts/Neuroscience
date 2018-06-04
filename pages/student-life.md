@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
-  Learn about the Nu Rho Psi Honor Society and the Undergraduate Neuroscience Society.
+  Get involved in the Nu Rho Psi Honor Society and the Undergraduate Neuroscience Society
+  in the College of Liberal Arts at Temple University.
 keywords: 'Nu Rho Psi Honor Society, undergraduate neuroscience society'
 # custom variables
 ---
