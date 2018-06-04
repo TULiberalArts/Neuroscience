@@ -1,39 +1,18 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
 title: Undergraduate
-keywords: 'neuroscience research, major, minor, +1, independent study, posters'
 description: >-
   Information about the undergraduate major, the minors in neuroscience
   research   and cognitive neuroscience, the +1 program and graduating with
   distinction.
+keywords: 'neuroscience research, major, minor, +1, independent study, posters'  
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Vinay Parikh  
-   Weiss Hall  
-   [(215) 204-1572](tel:2152041572)  
-   [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu)  
-   
-   ___
-   
-   **Associate Director, Master’s Program in Neuroscience:**  
-   Debra Bangasser  
-   873 Weiss Hall  
-   [(215) 204-1015](tel:2152041015)  
-   [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)  
-   
-   ___
-   
-   **Student Services Specialist:**  
-   Sarah McLaughlin  
-   638 Weiss Hall   
-   [(215) 204-3441](tel:2152043441)  
-   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Learn more about the [neuroscience major](#bs-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience five-year master’s program](#1-neuroscience-five-year-masters-program) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
 
