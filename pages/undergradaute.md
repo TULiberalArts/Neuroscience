@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Information about the undergraduate major, the minors in neuroscience
-  research   and cognitive neuroscience, the +1 program and graduating with
-  distinction.
+  Information about the undergraduate major, the minors in neuroscience research and 
+  cognitive neuroscience, the +1 program, independent study, and graduating withdistinction.
 keywords: 'neuroscience research, major, minor, +1, independent study, posters'  
 # custom variables
 sidebar: true
