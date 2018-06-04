@@ -5,9 +5,9 @@ permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
-keywords: 'Nu Rho Psi Honor Society, undergraduate neuroscience society'
 description: >-
   Learn about the Nu Rho Psi Honor Society and the Undergraduate Neuroscience Society.
+keywords: 'Nu Rho Psi Honor Society, undergraduate neuroscience society'
 # custom variables
 ---
 There’s so much more to being a Temple University neuroscience degree student than what you’ll learn in the classroom! We encourage our students to get involved and make the most of their time here. Learn about the [Nu Rho Psi Honor Society](#nu-rho-psi-honor-society) and the [Undergraduate Neuroscience Society](#undergraduate-neuroscience-society)
