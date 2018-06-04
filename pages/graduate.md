@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /graduate/
 published: true
 # meta-data variables
@@ -10,29 +10,9 @@ description: >-
   Plasticity and a PhD specialization.
 keywords: 'graduate program, ms in neuroscience, phd specialization, admissions, careers, amsters project'
 # custom variables
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Vinay Parikh  
-   Weiss Hall  
-   [(215) 204-1572](tel:2152041572)  
-   [vinay.parikh@temple.edu](mailto:vinay.parikh@temple.edu)  
-   
-   ___
-   
-   **Associate Director, Master’s Program in Neuroscience:**  
-   Debra Bangasser  
-   873 Weiss Hall  
-   [(215) 204-1015](tel:2152041015)  
-   [debra.bangasser@temple.edu](mailto:debra.bangasser@temple.edu)  
-   
-   ___
-   
-   **Student Services Specialist:**  
-   Sarah McLaughlin  
-   638 Weiss Hall   
-   [(215) 204-3441](tel:2152043441)  
-   [smclaughlin@temple.edu](mailto:smclaughlin@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 The College of Liberal Arts’ graduate Neuroscience degree offerings include a [masters of science](#ms-in-neuroscience) in neuroscience and a neuroscience [PhD specialization](#phd-specialization-in-neuroscience). You have [three areas of study](#programs-of-study) to choose from in the master's program. Learn more about the required [Master's Project](#masters-project), [careers](#careers) in Neuroscience and how to [apply](#admissions-porcess). [Contact us](#contact) today to learn more about why Temple University is the right place for you to earn a neuroscience masters degree or PhD.
 
