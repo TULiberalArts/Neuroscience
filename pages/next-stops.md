@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
-  Our students graduate prepared for a range of careers in a rapidly
-  growing field. Learn more or apply now.
+ See where hands-on research, internships, and lab work will take you with a degree in Neuroscience
+ from Temple University’s College of Liberal Arts. Visit us, learn about transfer options, and apply!
 keywords: 'careers, internships, neuroscience major, apply, visit, transfer'
 # custom variables
 ---
