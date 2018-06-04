@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Our interdisciplinary program offers hands-on experience, internship
-  opportunities and even the option to get a master’s degree in only one extra
-  year.
+  Study addiction, developmental disorders, ADHD, depression, anxiety, and so much more: earn a major, minor,
+  certificate, MS, or accelerated degree in Neuroscience from Temple University’s College of Liberal Arts.
 keywords: 'neuroscience program, major, minor, certificate, MS, accelerated degree'
 # custom variables
 feature: true
