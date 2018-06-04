@@ -6,9 +6,8 @@ published: true
 # meta-data variables
 title: Research
 description: >-
-  Our students gain research experience and practical training by working
-  with faculty on cutting-edge research in the classroom and the
-  laboratory.
+  Get hands-on with faculty-mentored research in the Neuroscience program at Temple University’s College of 
+  Liberal Arts. Learn about Independent Study, finding a lab, registration, and the Master’s Research Project.
 keywords: 'independent study, wet lab, faculty sponsor, masters research project'
 # custom variables
 ---
