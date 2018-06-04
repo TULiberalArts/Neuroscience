@@ -5,11 +5,11 @@ permalink: /research/
 published: true
 # meta-data variables
 title: Research
-keywords: 'independent study, wet lab, faculty sponsor, masters research project'
 description: >-
   Our students gain research experience and practical training by working
   with faculty on cutting-edge research in the classroom and the
   laboratory.
+keywords: 'independent study, wet lab, faculty sponsor, masters research project'
 # custom variables
 ---
 ![Research]({{site.baseurl}}/media/resized reserach.png){:.img-right}
