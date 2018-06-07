@@ -26,12 +26,12 @@ Our neuroscience degree program teaches students to explore neural and brain fun
 No matter what our students have planned for life after graduation—further graduate study in neuroscience, medical school or entering the workforce—our flexible curriculum allows time for classes outside of the major. As a student, you’ll get the well-rounded academic experience needed for your [next stop](https://www.cla.temple.edu/neuroscience/next-stops/).
 
 ## Academic Offerings
-- [BS in Neuroscience](/unde#bs-in-neuroscience)
-- [Minor in Neuroscience Research](#minor-in-neuroscience-research)
-- [Minor in Cognitive Neuroscience](#minor-in-cognitive-neuroscience)
+- [BS in Neuroscience](/neuroscience/undergraduate#bs-in-neuroscience)
+- [Minor in Neuroscience Research](/neuroscience/undergraduate#minor-in-neuroscience-research)
+- [Minor in Cognitive Neuroscience](/neuroscience#/undergraduateminor-in-cognitive-neuroscience)
 - [+1 Neuroscience 5-Year Master’s Program](/neuroscience/undergraduate#1-neuroscience-5-year-masters-program)
 - [MS in Neuroscience: Systems, Behavior and Plasticity](/neuroscience/graduate#ms-in-neuroscience)
-- [PhD Specialization in Neuroscience](#phd-specialization-in-neuroscience)
+- [PhD Specialization in Neuroscience](/neuroscience/graduate#phd-specialization-in-neuroscience)
 
 ___
 
