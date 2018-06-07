@@ -28,7 +28,7 @@ No matter what our students have planned for life after graduation—further gra
 ## Academic Offerings
 - [BS in Neuroscience](/neuroscience/undergraduate#bs-in-neuroscience)
 - [Minor in Neuroscience Research](/neuroscience/undergraduate#minor-in-neuroscience-research)
-- [Minor in Cognitive Neuroscience](/neuroscience#/undergraduateminor-in-cognitive-neuroscience)
+- [Minor in Cognitive Neuroscience](/neuroscience/undergraduate#minor-in-cognitive-neuroscience)
 - [+1 Neuroscience 5-Year Master’s Program](/neuroscience/undergraduate#1-neuroscience-5-year-masters-program)
 - [MS in Neuroscience: Systems, Behavior and Plasticity](/neuroscience/graduate#ms-in-neuroscience)
 - [PhD Specialization in Neuroscience](/neuroscience/graduate#phd-specialization-in-neuroscience)
