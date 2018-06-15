@@ -46,12 +46,3 @@ Because the brain is involved in every important human endeavor, an understandin
  
 ## Admissions Process
 Please visit the [Neuroscience Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/neuroscience) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. The application deadline is **March 1, 2019**.
-
-## Contact
-
-**Student Services Specialist, Neuroscience Program**<br/>
-Sarah Mclaughlin<br/>
-638 Weiss Hall <br/>
-1701 N 13th Street Philadelphia, PA 19122<br/>
-Phone: [(215) 204-3441](tel:2152043441)<br/>
-Email: [Neuro@temple.edu](mailto:Neuro@temple.edu)<br/>
