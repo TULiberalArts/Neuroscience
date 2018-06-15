@@ -11,6 +11,7 @@ description: >-
   to  research and publish while teaching both introductory and advanced
   courses.
 # custom variables
+sidebar: false
 affiliated: true
 affiliated_content: profiles/affiliated.html
 ---
