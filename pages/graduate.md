@@ -45,7 +45,7 @@ On the other hand, students who are not intending bench-level research upon grad
 Because the brain is involved in every important human endeavor, an understanding of the brain and its functions opens career paths in multiple fields including medicine, psychology, law, engineering, education and public policy. Master’s-level education in neuroscience will provide students with a wide range of career options including teacher/lecturer, research and teaching administrator, research associate at academic research institutes or private industries, biostatistician, medical or science writer, clinical data manager, public health administrator, environmental health safety officer, counselor, regulatory affairs specialist, and public policy strategist.
  
 ## Admissions Process
-Please visit the [Neuroscience Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/neuroscience) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. The application deadline was **May 1, 2017**.
+Please visit the [Neuroscience Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/neuroscience) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. The application deadline is **March 1, 2019**.
 
 ## Contact
 
