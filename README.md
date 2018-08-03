@@ -7,7 +7,7 @@ Neuroscience is statically generated with [Jekyll](https://jekyllrb.com) and hos
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/neuroscience/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/neuroscience/ |
 
 ## Content Structure
 
