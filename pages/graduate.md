@@ -22,7 +22,7 @@ Our MS in Neuroscience: Systems, Behavior and Plasticity provides highly advance
 
 This innovative program was developed by top faculty from the Departments of Psychology, Physical Therapy, and Kinesiology, to help qualified students gain core expertise in specific areas of neuroscience — including molecular, cellular, systems and behavioral neuroscience.
 
-[Learn More About the MS in Neuroscience](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
+Learn More About the [MS in Neuroscience](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/)
 
 ### Programs of Study
 There are three areas of study in the master's program:
@@ -45,4 +45,4 @@ On the other hand, students who are not intending bench-level research upon grad
 Because the brain is involved in every important human endeavor, an understanding of the brain and its functions opens career paths in multiple fields including medicine, psychology, law, engineering, education and public policy. Master’s-level education in neuroscience will provide students with a wide range of career options including teacher/lecturer, research and teaching administrator, research associate at academic research institutes or private industries, biostatistician, medical or science writer, clinical data manager, public health administrator, environmental health safety officer, counselor, regulatory affairs specialist, and public policy strategist.
  
 ## Admissions Process
-Please visit the [Neuroscience Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/neuroscience) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. The application deadline is **March 1, 2019**.
+Please visit the [Neuroscience Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/neuroscience-systems-behavior-plasticity-ms/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply. The application deadline is **March 1, 2019**.
