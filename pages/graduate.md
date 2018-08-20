@@ -34,7 +34,13 @@ There are three areas of study in the master's program:
 ## PhD Specialization in Neuroscience
 The Specialization in Neuroscience is for PhD students interested in studying neuroscience. It is open to any graduate student enrolled in a PhD program at Temple. Graduate students are admitted to the program after they have been accepted into a Temple PhD program. Upon successful completion of their departmental and neuroscience specialization requirements (see below), students receive a PhD degree in the discipline represented by their department with a specialization in neuroscience. To receive a Specialization in Neuroscience a student must fulfill the following requirements:
 
-Please visit the [Neuroscience Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/neuroscience) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+- Be a graduate student in good standing in a Temple University PhD program.
+- Meet all the obligations of the student’s participating department.
+- Have one member of the neuroscience program on their dissertation committee.
+- Attend and participate in the Readings in Neuroscience (NSCI 9381), which is the Journal Club for the Neuroscience Seminar Series of the CLA Neuroscience program, for four semesters by enrolling for one credit each of four semesters.
+- Take two courses in each of the Neuroscience Specialization Areas:
+  - Behavioral /Cognitive / Systems Neuroscience
+  - Cellular/Molecular Neuroscience
 
 ## Master's Project
 Students are required to work on a master’s project for both semesters in the second year. Depending upon their career goals, students may opt to engage either in a laboratory-based research project or in a non-laboratory project. Those students who are motivated to join doctoral programs or are interested in research positions will likely gain by working independently on a neuroscientific investigation under the supervision of a faculty member that maintains an active neuroscience research program. The purpose of the project will be to not only train students in specific neuroscientific techniques, but also to train students to develop scientific and analytical approach towards a problem, formulate clear research questions, conduct experiment, and analyze/interpret data.  
