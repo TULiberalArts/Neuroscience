@@ -10,6 +10,8 @@ description: >-
   certificate, MS, or accelerated degree in Neuroscience from Temple University’s College of Liberal Arts.
 keywords: 'neuroscience program, major, minor, certificate, MS, accelerated degree'
 # custom variables
+promotion-table: true
+sidebar: false
 feature: true
 feature-title: Employ Your Mind
 feature-image: media/hero_Neuroscience-red.png
