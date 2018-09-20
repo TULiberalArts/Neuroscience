@@ -11,7 +11,6 @@ description: >-
  learn how to apply, and contact us for more information.
 keywords: 'graduate program, ms in neuroscience, phd specialization, admissions, careers, masters project'
 # custom variables
-# custom variables
 sidebar: true
 sidebar_content: sidebars/graduate.html
 ---
