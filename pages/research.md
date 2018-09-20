@@ -11,7 +11,7 @@ description: >-
 keywords: 'independent study, wet lab, faculty sponsor, masters research project'
 # custom variables
 ---
-![Research]({{site.baseurl}}/media/resized reserach.png){:.img-right}
+![Research]({{site.baseurl}}/media/resized reserach.png){:.responsive-img .img-right}
 
 One of the neuroscience degree program’s major goals is providing undergraduate students and masters students with research experience and practical training in neuroscience through [faculty-mentored research](#independent-study). Temple University’s neuroscience faculty utilize state-of-the-art equipment and cutting-edge techniques to study fundamental brain processes and functions at various levels and to discover how this knowledge could be applied to treating various neuropathologies.
 
