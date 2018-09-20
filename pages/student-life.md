@@ -13,7 +13,7 @@ keywords: 'Nu Rho Psi Honor Society, undergraduate neuroscience society'
 ---
 There’s so much more to being a Temple University neuroscience degree student than what you’ll learn in the classroom! We encourage our students to get involved and make the most of their time here. Learn about the [Nu Rho Psi Honor Society](#nu-rho-psi-honor-society) and the [Undergraduate Neuroscience Society](#undergraduate-neuroscience-society)
 
-![Nu Rho Psi]({{site.baseurl}}/media/nuropsi.jpg){:.img-right}
+![Nu Rho Psi]({{site.baseurl}}/media/nuropsi.jpg){:.responsive-img .img-right}
 
 ## Nu Rho Psi Honor Society
 The purpose of [Nu Rho Psi](https://temple.campuslabs.com/engage/organization/nurhopsi) is to:
