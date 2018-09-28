@@ -10,8 +10,8 @@ description: >-
   cognitive neuroscience, the +1 program, independent study, and graduating withdistinction.
 keywords: 'neuroscience research, major, minor, +1, independent study, posters'  
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 Learn more about the [neuroscience major](#bs-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience five-year master’s program](#1-neuroscience-five-year-masters-program) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
 

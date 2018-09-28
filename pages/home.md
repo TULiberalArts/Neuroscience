@@ -11,7 +11,7 @@ description: >-
 keywords: 'neuroscience program, major, minor, certificate, MS, accelerated degree'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: Employ Your Mind
 feature-image: media/hero_Neuroscience-red.png

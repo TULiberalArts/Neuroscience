@@ -11,8 +11,8 @@ description: >-
  learn how to apply, and contact us for more information.
 keywords: 'graduate program, ms in neuroscience, phd specialization, admissions, careers, masters project'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
+
+sidebar: sidebars/graduate.html
 ---
 The College of Liberal Arts’ graduate Neuroscience degree offerings include a [masters of science](#ms-in-neuroscience) in neuroscience and a neuroscience [PhD specialization](#phd-specialization-in-neuroscience). You have [three areas of study](#programs-of-study) to choose from in the master's program. Learn more about the required [Master's Project](#masters-project), [careers](#careers) in Neuroscience and how to [apply](#admissions-porcess). [Contact us](#contact) today to learn more about why Temple University is the right place for you to earn a neuroscience masters degree or PhD.
 
