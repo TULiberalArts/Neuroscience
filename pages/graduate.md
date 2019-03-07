@@ -36,7 +36,7 @@ The Specialization in Neuroscience is for PhD students interested in studying ne
 - Be a graduate student in good standing in a Temple University PhD program.
 - Meet all the obligations of the student’s participating department.
 - Have one member of the neuroscience program on their dissertation committee.
-- Attend and participate in the Readings in Neuroscience (NSCI 9381), which is the Journal Club for the Neuroscience Seminar Series of the CLA Neuroscience program, for four semesters by enrolling for one credit each of four semesters.
+- Attend and participate in the Readings in Neuroscience (NSCI 9381) course, that also involves participation in the Journal Club for the Neuroscience Seminar Series of the CLA Neuroscience program, for three semesters by enrolling for one credit each of three semesters.
 - Take two courses in each of the Neuroscience Specialization Areas:
   - Behavioral /Cognitive / Systems Neuroscience
   - Cellular/Molecular Neuroscience
