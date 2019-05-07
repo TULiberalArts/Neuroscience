@@ -32,9 +32,11 @@ In most cases, students start a year in advance. Once a lab has been identified 
 For additional support, contact the Student Services Specialist at [Neuro@temple.edu](mailto:Neuro@temple.edu).
 
 ### Registering for Independent Study
-In order to register for independent study, you need a Special Course Approval form. This form can be found in the Neuroscience Advising office in room 638 Weiss Hall.
+In order to register for Independent Study, you will need to complete a Special Course Approval form. This form can be found in the Neuroscience Coordinator’s office in room 618 Weiss Hall.
 
-Students must complete all information on the form and have the research mentor sign the form. The form should then be returned to the Neuroscience Advising office in room 638 Weiss. The form can be left under the door if there is no one available to help you. Once you are registered, you will notice that Dr. Parikh is the instructor. Dr. Parikh is responsible for the administration of the course. You will go to you laboratory and work with your mentor according to your agreement. At the end of the semester, your mentor will be contacted for a grade.
+Students must complete all information on the form and have the research mentor sign the form. The form should then be returned to the Neuroscience Coordinator’s office in room 618 Weiss Hall. Once you are registered, you will notice that Dr. Parikh is the instructor. Dr. Parikh is responsible for the administration of the course. You will go to you laboratory and work with your mentor according to your agreement. At the end of the semester, your mentor will be contacted for a grade. 
+
+For any questions, please reach out to [Rebecca Brotschul](mailto:Rebecca.Brotschul@temple.edu). 
 
 ## Master's Research Project
 Students are required to work on a master’s project for both semesters in the second year. Those students who are motivated to join doctoral programs or are interested in research positions will have the opportunity to work independently on a neuroscientific investigation under the supervision of a faculty member that maintains an active neuroscience research program. The purpose of the project will be to not only train students in specific neuroscientific techniques, but also to train students to develop scientific and analytical approach towards a problem, formulate clear research questions, conduct experiment, and analyze/interpret data.
