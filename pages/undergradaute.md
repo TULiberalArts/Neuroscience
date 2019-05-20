@@ -45,7 +45,7 @@ The +1 master in neuroscience program offers outstanding Temple University neuro
 To learn more about this accelerated degree offering, please visit the [Neuroscience Accelerated Degree Admissions](https://liberalarts.temple.edu/bs-neuroscience-systems-behavior-and-plasticity-ms-neuroscience-systems-behavior-and-plasticity) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Independent Study in Neuroscience
-Students majoring in neuroscience are strongly encouraged to participate in research by taking courses in independent study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator](mailto:smclaughlin@temple.edu) and [Program Director](mailto:vinay.parikh@temple.edu) will work with students to identify these independent study opportunities. More detailed information is available under [research](/neuroscience/research/#independent-study).
+Students majoring in neuroscience are strongly encouraged to participate in research by taking courses in independent study as part of their elective credits for the major. Independent study opportunities will be offered in many of the laboratories of the more than 130 neuroscience faculty members in the various participating colleges and schools. The [Student Services Coordinator](mailto:rebecca.brotschul@temple.edu) and [Program Director](mailto:vinay.parikh@temple.edu) will work with students to identify these independent study opportunities. More detailed information is available under [research](/neuroscience/research/#independent-study).
 
 ## Graduating with Distinction in Neuroscience
 Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be awarded departmental distinction upon graduation. Graduating with distinction can be achieved by maintaining a grade point average 3.0 of better in all neuroscience courses, completing two semesters of independent study in Neuroscience (NSI 4182 & 4282) with an A- or better, and successfully completing a neuroscience research project based on the independent study work and described in a research paper and poster presented to neuroscience program faculty and students.  Students MUST complete an Application for Distinction.
@@ -53,10 +53,10 @@ Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be
 ### Distinction Paper
 The Distinction Paper should follow the _[Journal of Neuroscience](http://www.jneurosci.org/)_ format, and should be between eight and 15 pages long.
 
-Distinction papers must be signed by the student’s Independent Study Mentor and then submitted to Dr. Parikh for approval, with a copy to the [Student Services Coordinator](mailto:mailto:smclaughlin@temple.edu).
+Distinction papers must be signed by the student’s Independent Study Mentor and then submitted to Dr. Parikh for approval, with a copy to the [Student Services Coordinator](mailto:mailto:rebecca.brotschul@temple.edu).
 
 ### Poster Presentation
-If you are submitting a poster for distinction, please be sure to indicate that in an email to the [Student Services Coordinator](mailto:mailto:smclaughlin@temple.edu) prior to the presentation. Distinction posters may be submitted for  the Spring poster sessions.
+If you are submitting a poster for distinction, please be sure to indicate that in an email to the [Student Services Coordinator](mailto:rebecca.brotschul@temple.edu) prior to the presentation. Distinction posters may be submitted for the Spring poster sessions.
 
 The neuroscience program will host a spring poster session each year, but students graduating prior to the spring semester and therefore presenting in the Fall must do so through an outside organization.
 
