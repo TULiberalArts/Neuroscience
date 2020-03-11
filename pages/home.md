@@ -38,7 +38,7 @@ No matter what our students have planned for life after graduation—further gra
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Real-World Experience from Day One"
     content="Our students don't just learn from books. You'll get hands-on experience in research labs right here on campus and internship opportunities in the broader Philadelphia area."
     image=""
@@ -46,7 +46,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Add Another Year — and a Master's"
       content="Our competitive +1 program offers students the opportunity to earn both a bachelor's and master's degree in neuroscience in just five years."
       image=""
@@ -54,7 +54,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Interdisciplinary Advanced Degree Options"
         content="Our interdisciplinary curriculum allows students to take coursework in multiple departments at Temple while engaging in the study of one of the most dynamic areas of science."
         image=""
