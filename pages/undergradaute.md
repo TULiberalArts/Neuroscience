@@ -53,7 +53,7 @@ Majors in Neuroscience: Systems, Behavior, Plasticity have the opportunity to be
 ### Distinction Paper
 The Distinction Paper should follow the _[Journal of Neuroscience](http://www.jneurosci.org/)_ format, and should be between eight and 15 pages long.
 
-Distinction papers must be signed by the student’s Independent Study Mentor and then submitted to Dr. Parikh for approval, with a copy to the [Student Services Coordinator](mailto:mailto:rebecca.brotschul@temple.edu).
+Distinction papers must be signed by the student’s Independent Study Mentor and then submitted to Dr. Bangasser for approval, with a copy to the [Student Services Coordinator](mailto:mailto:rebecca.brotschul@temple.edu).
 
 ### Poster Presentation
 If you are submitting a poster for distinction, please be sure to indicate that in an email to the [Student Services Coordinator](mailto:rebecca.brotschul@temple.edu) prior to the presentation. Distinction posters may be submitted for the Spring poster sessions.
