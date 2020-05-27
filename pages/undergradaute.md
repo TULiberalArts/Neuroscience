@@ -13,7 +13,7 @@ keywords: 'neuroscience research, major, minor, +1, independent study, posters'
 
 sidebar: sidebars/undergraduate.html
 ---
-Learn more about the [neuroscience major](#bs-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience five-year master’s program](#1-neuroscience-five-year-masters-program) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
+Learn more about the [neuroscience major](#bachelor-of-science-in-neuroscience), the minors in [neuroscience research](#minor-in-neuroscience-research) and [cognitive neuroscience](#minor-in-cognitive-neuroscience), the [+1 neuroscience five-year master’s program](#1-neuroscience-five-year-masters-program) and [graduating with distinction](#graduating-with-distinction-in-neuroscience).
 
 ![Research]({{site.baseurl}}/media/neuro poster.jpg){:.responsive-img .img-right}
 ## A Hands-On Approach
@@ -22,10 +22,10 @@ Neuroscience majors have the opportunity to gain first-hand research experience 
 ## Expert And Engaged Faculty
 Classes are taught by full-time faculty with degrees in neuroscience and extensive teaching and research experience in the field. Our small class sizes allow students the opportunity to network with neuroscience experts and receive personal attention from faculty.
 
-## BS in Neuroscience
+## Bachelor of Science in Neuroscience
 A major in neuroscience enables students to pursue a curriculum in several departments, colleges and schools at Temple University in one of the most dynamic areas of science. Neuroscience is an interdisciplinary field addressing neural and brain function at multiple levels. It encompasses a broad domain that ranges from molecular genetics and neural development, to brain processes involved in cognition and emotion, to mechanisms and consequences of neurodegenerative disease. The field of neuroscience also includes mathematical and physical principles involved in modeling neural systems and in brain imaging.
 
-Learn More about the [Bachelor of Science in Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/bs-neuroscience-systems-behavior-plasticity/)
+Learn More about the [BS in Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/bs-neuroscience-systems-behavior-plasticity/)
 
 A number of departments throughout Temple include research and teaching in neuroscience, including departments in the Colleges of Engineering (CE), Health Professions (CHP), Liberal Arts (CLA), Science and Technology (CST), and the School of Medicine (TUSM). Neuroscience courses are open to students from any major.
 
