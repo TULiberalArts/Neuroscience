@@ -11,15 +11,10 @@ description: >-
 keywords: 'neuroscience program, major, minor, certificate, MS, accelerated degree'
 # custom variables
 promotion-table: true
-
 feature: true
-feature-title: Employ Your Mind
+feature-title:
 feature-image: media/hero_Neuroscience-red.png
 feature-body: >-
-  Our neuroscience program teaches students to explore neural and brain function
-  at multiple levels in a rapidly growing field. Our students study the neural
-  basis of addiction, developmental disorders, ADHD, depression, anxiety,
-  age-related disorders and much more.
 ---
 ## Employ Your Mind
 Our neuroscience degree program teaches students to explore neural and brain function at multiple levels in a rapidly growing field. Our students study the neural basis of addiction, developmental disorders, ADHD, depression, anxiety, age-related disorders and much more.
