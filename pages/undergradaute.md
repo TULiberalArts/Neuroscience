@@ -25,7 +25,7 @@ Classes are taught by full-time faculty with degrees in neuroscience and extensi
 ## Bachelor of Science in Neuroscience
 A major in neuroscience enables students to pursue a curriculum in several departments, colleges and schools at Temple University in one of the most dynamic areas of science. Neuroscience is an interdisciplinary field addressing neural and brain function at multiple levels. It encompasses a broad domain that ranges from molecular genetics and neural development, to brain processes involved in cognition and emotion, to mechanisms and consequences of neurodegenerative disease. The field of neuroscience also includes mathematical and physical principles involved in modeling neural systems and in brain imaging.
 
-Learn More about the [BS in Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/neuroscience-systems-behavior-plasticity/bs-neuroscience-systems-behavior-plasticity/)
+Learn More about the [BS in Neuroscience](https://www.temple.edu/academics/degree-programs/neuroscience-major-la-nsci-bs)
 
 A number of departments throughout Temple include research and teaching in neuroscience, including departments in the Colleges of Engineering (CE), Health Professions (CHP), Liberal Arts (CLA), Science and Technology (CST), and the School of Medicine (TUSM). Neuroscience courses are open to students from any major.
 
@@ -40,7 +40,7 @@ The minor in cognitive neuroscience will strengthen the academic record of stude
 Learn More about the [Minor in Cognitive Neuroscience](http://bulletin.temple.edu/undergraduate/liberal-arts/psychology/minor-cognitive-neuroscience/)
 
 ## +1 Neuroscience 5-Year Master’s Program
-The +1 master in neuroscience program offers outstanding Temple University neuroscience majors the opportunity to earn both the BS and MS in neuroscience in just 5 years. Admission to the program is highly selective. The program is designed to provide a research-intensive experience, advanced coursework and professional development to students who intend to pursue doctoral studies in any of the academic neuroscience disciplines.
+The [+1 master in neuroscience program](https://www.temple.edu/academics/degree-programs/neuroscience-major-la-nsci-bs) offers outstanding Temple University neuroscience majors the opportunity to earn both the BS and MS in neuroscience in just 5 years. 
 
 To learn more about this accelerated degree offering, please visit the [Neuroscience Accelerated Degree Admissions](https://liberalarts.temple.edu/bs-neuroscience-systems-behavior-and-plasticity-ms-neuroscience-systems-behavior-and-plasticity) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
