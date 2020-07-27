@@ -29,7 +29,7 @@ Independent study is available in the laboratories of neuroscience faculty membe
 
 In most cases, students start a year in advance. Once a lab has been identified as an area of interest, the student must contact that research faculty member to see about openings, requirements, start dates, etc. Each laboratory program is unique and has different academic requirements. Some students will be required to complete a final paper, some students will be responsible for a literature search and all students are encouraged to submit a poster for the spring or fall poster session.
 
-For additional support, contact the Student Services Specialist at [Neuro@temple.edu](mailto:Neuro@temple.edu).
+You can view the full list of the [Neuroscience Program's research opportunities](https://docs.google.com/document/d/1OkT88SQkj6G89Ca7EoSFRQJWmZIVHaIbqfsq-ydujtA/edit). For more information, please reach out to Rebecca Brotschul at [rebecca.brotschul@temple.edu](mailto:rebecca.brotschul@temple.edu).
 
 ### Registering for Independent Study
 In order to register for Independent Study, you will need to complete a Special Course Approval form. This form can be found in the Neuroscience Coordinator’s office in room 618 Weiss Hall.
