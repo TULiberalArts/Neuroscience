@@ -31,6 +31,8 @@ In most cases, students start a year in advance. Once a lab has been identified 
 
 You can view the full list of the [Neuroscience Program's research opportunities](https://docs.google.com/document/d/1OkT88SQkj6G89Ca7EoSFRQJWmZIVHaIbqfsq-ydujtA/edit). For more information, please reach out to Rebecca Brotschul at [rebecca.brotschul@temple.edu](mailto:rebecca.brotschul@temple.edu).
 
+- Applying to a Lab [FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/Applying%2Bto%2BLabs%2BFAQ.pdf)
+
 ### Registering for Independent Study
 In order to register for Independent Study, you will need to complete a Special Course Approval form. This form can be found in the Neuroscience Coordinator’s office in room 618 Weiss Hall.
 
