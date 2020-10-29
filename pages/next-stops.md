@@ -49,6 +49,12 @@ Students graduating with a major (BS) in neuroscience from Temple University wil
 
 Learn more about [potential careers for Neuroscience majors and recent job placements](https://www.temple.edu/academics/degree-programs/undergraduate-majors-minors/neuroscience-major-bs-nsci/careers-internships-opportunities) after graduation.  
 
+## Alumni Spotlight
+So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
+
+- [Rosalie Schumann](https://liberalarts.temple.edu/news/alumni-spotlight-rosalie-schumann) is currently a medical student at the Philadelphia College of Osteopathic Medicine.
+_Double Major in Neuroscience and Psychology from Temple in 2018_ 
+
 ___
 
 ## Make Your Declaration
