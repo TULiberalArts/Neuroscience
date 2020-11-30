@@ -55,6 +55,9 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 - [Rosalie Schumann](https://liberalarts.temple.edu/news/alumni-spotlight-rosalie-schumann) is currently a medical student at the Philadelphia College of Osteopathic Medicine.
 _Double Major in Neuroscience and Psychology from Temple in 2018_ 
 
+- [Jasmine Forde](https://liberalarts.temple.edu/news/alumni-spotlight-jasmine-forde) is currently a Research Analyst at Mathematica.
+_Double Major in Neuroscience and Psychology from Temple in 2016_ 
+
 ___
 
 ## Make Your Declaration
