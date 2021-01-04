@@ -52,11 +52,14 @@ Learn more about [potential careers for Neuroscience majors and recent job place
 ## Alumni Spotlight
 So many of our distinguished alumni have gone on to great accomplishments. The stories below feature some of our outstanding alumni who have risen to levels of professional acclaim and successes!
 
-- [Rosalie Schumann](https://liberalarts.temple.edu/news/alumni-spotlight-rosalie-schumann) is currently a medical student at the Philadelphia College of Osteopathic Medicine.<br>
-_Double Major in Neuroscience and Psychology from Temple in 2018_ 
+- [Cory Ardekani](https://liberalarts.temple.edu/news/alumni-spotlight-cory-ardekani) is currently a graduate student at the University of California Davis (UC Davis).<br>
+_Major in Neuroscience from Temple in 2016_ 
 
 - [Jasmine Forde](https://liberalarts.temple.edu/news/alumni-spotlight-jasmine-forde) is currently a Research Analyst at Mathematica.<br>
 _Double Major in Neuroscience and Psychology from Temple in 2016_ 
+
+- [Rosalie Schumann](https://liberalarts.temple.edu/news/alumni-spotlight-rosalie-schumann) is currently a medical student at the Philadelphia College of Osteopathic Medicine.<br>
+_Double Major in Neuroscience and Psychology from Temple in 2018_ 
 
 ___
 
