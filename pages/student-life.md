@@ -50,3 +50,30 @@ Students who join [UNS](https://temple.campuslabs.com/engage/organization/Underg
 - Secretary: [Tara Peterson](mailto:tug59434@temple.edu)
 
 Interested in joining? Contact one of our board members or complete an application (available in Weiss Hall, Office 638).
+
+## Grey Matters TU
+**What is Grey Matters?**<br>
+Grey Matters’ largest effort is producing a semesterly brain sciences publication that is written, edited, illustrated, and produced entirely by Temple University students from a wide range of departments. Our mission is to bring the Temple community closer to science by operating as Temple’s first undergraduate neuroscience journal. All articles will be written such that they are accessible to those with a non-science background.
+
+**Available Positions:**<br>
+Each position is a semesterly commitment and we release applications at the beginning of each semester. 
+- Author
+- Lay Reviewer
+- Scientific Reviewer
+- General Editor
+- Artist
+
+**Executive Board:**<br>
+- _Editor in Chief:_ Nikita Sajeev
+- _Science Managing Editor:_ Charita Kunta
+- _Lay & General Managing Editor:_ Ashish Abraham
+- _Senior Science Editor:_ Areebah Rahman
+- _Lay Senior Editor:_ Aarohi Shah
+- _General Senior Editor:_ Olivia Rojek
+- _Social Media/Recruitment Director:_ Allison Berger
+- _Art Director:_ Becca Gitlevich
+- _Website Director:_ Naveen Gedupoori
+
+**_Have any questions about Grey Matters TU? Email [greymatters@temple.edu](mailto:greymatters@temple.edu)_**
+
+
