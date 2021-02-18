@@ -61,6 +61,10 @@ _Double Major in Neuroscience and Psychology from Temple in 2016_
 - [Rosalie Schumann](https://liberalarts.temple.edu/news/alumni-spotlight-rosalie-schumann) is currently a medical student at the Philadelphia College of Osteopathic Medicine.<br>
 _Double Major in Neuroscience and Psychology from Temple in 2018_ 
 
+- [Marguerite Robinson](https://liberalarts.temple.edu/news/alumni-spotlight-marguerite-robinson) is currently a medical student at the Philadelphia College of Osteopathic Medicine.<br>
+_Double Major in Neuroscience and Psychology from Temple in 2016_ 
+_MS in Neuroscience from Temple in 2018_ 
+
 ___
 
 ## Make Your Declaration
