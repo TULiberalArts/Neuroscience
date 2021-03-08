@@ -24,7 +24,7 @@ The Building Research Independence by Developing Goals and hands-on Experiences 
 
 - [Bridge Program Information & FAQS](https://docs.google.com/document/d/1jS7mt8bhBqc92B2H5yDy__kEuv39PhxLHSnryJIL_3Y/edit)
 - [Participating Lab Information](https://docs.google.com/document/d/1y1pJXXYV5LRBDBYUUFzHNf5lPc55XhUuwqcb82tRCy0/edit)
-- [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSeWlsnHuWa1qwtqXmb-z-wmQAtADXPFyiR5VS3fQe11QgSdEw/viewform) **Applications due April 1**<br>
+- [Application Link](https://docs.google.com/forms/d/e/1FAIpQLSeWlsnHuWa1qwtqXmb-z-wmQAtADXPFyiR5VS3fQe11QgSdEw/viewform) - **Applications due April 1**<br>
 
 ### Independent Study
 Neuroscience majors are encouraged to gain first-hand experience with research through independent study. Students will carry out supervised neuroscience research by observing and participating in ongoing research in a laboratory environment.
